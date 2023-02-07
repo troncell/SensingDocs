@@ -11,4 +11,5 @@
 文档地址：[信息发布](https://github.com/troncell/SensingDocs/blob/main/Docs/AppPod/%E4%BF%A1%E6%81%AF%E5%8F%91%E5%B8%83.md)
 
 2.软件安装：支持Android和Windows，设备上安装AppPod软件。输入服务器地址和设备密钥，点击注册，设备播放后台创建的素材
+
 文档地址：[AppPod安装](https://github.com/troncell/SensingDocs/blob/main/Docs/AppPod/AppPod%E5%AE%89%E8%A3%85.md)
