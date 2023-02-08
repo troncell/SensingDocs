@@ -10,12 +10,12 @@
 
 2. H5页面配置：包含大屏和手机端显示内容的配置
 
-（1）答题派样：配置首页、答题、答题成功等页面
-g
-详细配置说明请参考:[答题派样页面配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/H5%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE.md)
+  （1）答题派样：配置首页、答题、答题成功等页面
+
+   详细配置说明请参考:[答题派样页面配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E7%AD%94%E9%A2%98%E6%B4%BE%E6%A0%B7%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE.md)
 
 
-1. 设备安装：设备上安装Sample软件。输入服务器地址和设备密钥，调试串口设备，定期对贩卖机进行补货。
+3. 设备安装：设备上安装Sample软件。输入服务器地址和设备密钥，调试串口设备，定期对贩卖机进行补货。
 
-  详细安装说明请参考：[设备安装](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85.md)
+   详细安装说明请参考：[设备安装](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85.md)
 
