@@ -12,7 +12,7 @@
 
 （1）答题派样：配置首页、答题、答题成功等页面
 
-    详细配置说明请参考:[答题派样页面配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/H5%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE.md)
+详细配置说明请参考:[答题派样页面配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/H5%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE.md)
 
 
 3. 设备安装：设备上安装Sample软件。输入服务器地址和设备密钥，调试串口设备，定期对贩卖机进行补货。
