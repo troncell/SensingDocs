@@ -6,7 +6,7 @@
 # 使用流程
 1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置派样机活动相关信息，包含模块：设备、线上店铺（微商城）、答题、活动、权益等。
 
-文档地址：[后台配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E5%90%8E%E5%8F%B0%E9%85%8D%E7%BD%AE.md)
+    文档地址: [后台配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E5%90%8E%E5%8F%B0%E9%85%8D%E7%BD%AE.md)
 
 2. H5页面配置：包含大屏和手机端显示内容的配置
 
