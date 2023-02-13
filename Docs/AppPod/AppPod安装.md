@@ -99,7 +99,7 @@
 3. 播放界面，按下键盘：Alt+F4，关闭播放界面
 
 4. 若注册的设备已经在其他设备注册过，会提示注册失败，按下键盘F2，再点击注册即可
-5. 
+   
     <img style="width:200px" class="right" src="/Docs\AppPod\images\Deviceimages\3.png" alt="Deviceimages" />
 
 ## 3.常见问题
