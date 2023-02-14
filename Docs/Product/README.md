@@ -5,7 +5,7 @@
 云货架支持Android和Windows
 
 # 使用流程
-1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置播商品等信息，包含模块：设备、商品等。
+1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置设备、商品广告等信息，包含模块：设备、商品、广告等。
    
     后台配置说明请参考：[]()
 

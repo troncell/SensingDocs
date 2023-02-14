@@ -2,7 +2,13 @@
 接入不同厂家的贩卖机设备，连通SensingStoreCloud平台，获取货道信息、活动内容、货道库存等信息数据。在贩卖机设备上安装Sample应用，展示活动内容，用户可参与活动，领取贩卖机上的样品。补货人员可定期对派样机进行补货。
 # 使用环境
 贩卖机设备目前仅支持Android
+  | 系统版本 | NAS地址| 
+|---|---|
+|Android |/产品发布/Release/AppPod/Android|
 
+# github仓库地址：
+
+  派样活动系统仓库：https://github.com/troncell/AppPodAndroid/
 # 使用流程
 1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置派样机活动相关信息，包含模块：设备、线上店铺（微商城）、答题、活动、权益等。
 
