@@ -53,8 +53,10 @@
 {
   "OpenSettingPassword":"2020"
 }
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0909/103540_25c9a0f3_8867015.png "屏幕截图.png")
-2. 修改设备密钥后，点击注册
+
+![Deviceimages](./images/Deviceimages/7.png)
+
+1. 修改设备密钥后，点击注册
 
 方法二：
 

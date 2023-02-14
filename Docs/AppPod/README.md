@@ -16,10 +16,12 @@
 # 使用环境
 信息发布支持Android和Windows
 
-  | 系统版本  | 版本 | 版本发布时间 | 版本下载链接| NAS地址| 修改内容 |
-|---|---|---|---|---|---|---|
-|Windows|AppPod-Win-4.0.1.5 | 2022/12/19  | https://troncell-releases.oss-cn-shanghai.aliyuncs.com/AppPod/Windows/AppPod-Win-4.0.1.5.7z|/产品发布/Release/AppPod/Windows | 修改更新云货架后，排程内容不显示|
-|Android|V3.1.16 | 2022/2/1 | https://troncell-releases.oss-cn-shanghai.aliyuncs.com/AppPod/Android/sensingads/com.troncell.apppod-v3.1.16-release.apk|/产品发布/Release/AppPod/Android |添加Debug模式:默认关闭Debug模式，下拉web不会刷新；打开Debug模式，下拉web会刷新|
+  | 系统版本 | 阿里云下载地址 |钉钉下载| NAS地址| 
+|---|---|---|---|
+|Android | https://oss.console.aliyun.com/bucket/oss-cn-shanghai/troncell-releases/object?path=AppPod%2FAndroid%2Fsensingads%2F | 钉钉群：创思软件发布|/产品发布/Release/AppPod/Android |
+|Windows |无 | 无|/产品发布/Release/AppPod/Windows |
+
+
 # github仓库地址：
 
 Windows仓库：
