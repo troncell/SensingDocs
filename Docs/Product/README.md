@@ -6,7 +6,9 @@
 Android和H5（待定）
   | 系统版本 | 版本地址（NAS）| 
 |---|---|
-|Android |/产品发布/Release/Product/Windows|
+|Windows |/产品发布/Release/Product/Windows|
+
+# github仓库地址：
 
 # 使用流程
 1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置设备、商品广告等信息，包含模块：设备、商品、广告等。
