@@ -83,7 +83,7 @@
 
 ## 2.Windows版
 ### 2.1登录设备密钥
-1. 双击打开AppPod.exe,输入设备密钥，点击检车KEY.显示设备信息
+1. 双击打开AppPod.exe,输入设备密钥，点击检查KEY.显示设备信息
      
    <img style="width:200px" class="right" src="/Docs\AppPod\images\Deviceimages\2.png" alt="Deviceimages" />
 
