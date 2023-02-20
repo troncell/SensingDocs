@@ -11,6 +11,7 @@ Android和H5（待定）
 
 # github仓库地址：
 
+
 # 使用流程
 1. 页面配置
    
@@ -29,5 +30,5 @@ Android和H5（待定）
 
 4. 应用安装
    
-   （1）windows版安装，安装文档请参考：
+   （1）windows版安装，安装文档请参考：[应用安装.md](https://github.com/troncell/SensingDocs/blob/main/Docs/Product/%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85.md)
  
