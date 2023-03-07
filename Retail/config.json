@@ -5,47 +5,63 @@
             {
                 "title": "信息发布",
                 "iocn": "",
-                "path": "",
+                "path": "info",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "播控系统",
+                "icon":"",
+                "path":"broadcast",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "客流系统",
+                "icon":"",
+                "path":"passenger",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "互动软件",
+                "icon":"",
+                "path":"interaction",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "云货架",
+                "icon":"",
+                "path":"cloudShelf",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "IOT感应互动",
+                "icon":"",
+                "path":"IOT",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "人脸闸机系统",
+                "icon":"",
+                "path":"faceGate",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "机器人",
+                "icon":"",
+                "path":"robot",
                 "info": true,
                 "Q&A": true
             },
             {
                 "title": "展示小程序",
+                "icon":"",
+                "path":"miniProgram",
                 "info": true,
                 "Q&A": true
             }
