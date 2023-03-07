@@ -7,7 +7,7 @@
                 "iocn": "",
                 "path": "info",
                 "info": true,
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":true,
                 "versionDownload":true
@@ -16,7 +16,7 @@
                 "title": "播控系统",
                 "icon":"",
                 "path":"broadcast",
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":true,
                 "versionDownload":true
@@ -25,7 +25,7 @@
                 "title": "客流系统",
                 "icon":"",
                 "path":"passenger",
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":true,
                 "versionDownload":true
@@ -34,7 +34,7 @@
                 "title": "互动软件",
                 "icon":"",
                 "path":"interaction",
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":true,
                 "versionDownload":true
@@ -43,7 +43,7 @@
                 "title": "云货架",
                 "icon":"",
                 "path":"cloudShelf",
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":true,
                 "versionDownload":true
@@ -52,7 +52,7 @@
                 "title": "IOT感应互动",
                 "icon":"",
                 "path":"IOT",
-                "Q&A": false,
+                "QA": false,
                 "development":true,
                 "configuration":true,
                 "versionDownload":true
@@ -61,7 +61,7 @@
                 "title": "人脸闸机系统",
                 "icon":"",
                 "path":"faceGate",
-                "Q&A": true,
+                "QA": true,
                 "development":false,
                 "configuration":true,
                 "versionDownload":true
@@ -70,7 +70,7 @@
                 "title": "机器人",
                 "icon":"",
                 "path":"robot",
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":true,
                 "versionDownload":false
@@ -79,7 +79,7 @@
                 "title": "展示小程序",
                 "icon":"",
                 "path":"miniProgram",
-                "Q&A": true,
+                "QA": true,
                 "development":true,
                 "configuration":false,
                 "versionDownload":true
@@ -92,12 +92,12 @@
             {
                 "title": "客流系统",
                 "info": true,
-                "Q&A": true
+                "QA": true
             },
             {
                 "title": "项目2",
                 "info": true,
-                "Q&A": true
+                "QA": true
             }
         ]
     },
@@ -107,12 +107,12 @@
             {
                 "title": "项目1",
                 "info": true,
-                "Q&A": true
+                "QA": true
             },
             {
                 "title": "项目2",
                 "info": true,
-                "Q&A": true
+                "QA": true
             }
         ]
     },
@@ -122,12 +122,12 @@
             {
                 "title": "项目1",
                 "info": true,
-                "Q&A": true
+                "QA": true
             },
             {
                 "title": "项目2",
                 "info": true,
-                "Q&A": true
+                "QA": true
             }
         ]
     }
