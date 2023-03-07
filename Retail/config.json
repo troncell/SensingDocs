@@ -1,0 +1,86 @@
+{
+    "retail": [
+        {
+            "title": "信息发布",
+            "iocn":"",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "播控系统",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "客流系统",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "互动软件",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "云货架",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "IOT感应互动",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "人脸闸机系统",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "机器人",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "展示小程序",
+            "info":true,
+            "Q&A":true
+        }
+    ],
+    "hall": [
+        {
+            "title": "客流系统",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "项目2",
+            "info":true,
+            "Q&A":true
+        }
+    ],
+    "factory": [
+        {
+            "title": "项目1",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "项目2",
+            "info":true,
+            "Q&A":true
+        }
+    ],
+    "downloadCenter": [
+        {
+            "title": "项目1",
+            "info":true,
+            "Q&A":true
+        },
+        {
+            "title": "项目2",
+            "info":true,
+            "Q&A":true
+        }
+    ]
+}
