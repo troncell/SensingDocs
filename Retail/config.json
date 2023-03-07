@@ -1,6 +1,6 @@
 {
     "retail": {
-        "name": "sell",
+        "name": "零售",
         "data": [
             {
                 "title": "信息发布",
@@ -52,7 +52,7 @@
         ]
     },
     "hall": {
-        "name": "showroom",
+        "name": "展厅",
         "data": [
             {
                 "title": "客流系统",
@@ -67,7 +67,7 @@
         ]
     },
     "factory": {
-        "name": "factory",
+        "name": "工厂",
         "data": [
             {
                 "title": "项目1",
@@ -82,7 +82,7 @@
         ]
     },
     "downloadCenter": {
-        "name": "downloadCenter",
+        "name": "下载中心",
         "data": [
             {
                 "title": "项目1",
