@@ -1,5 +1,5 @@
 {
-    "retail": {
+    "sell": {
         "name": "零售",
         "data": [
             {
@@ -94,7 +94,7 @@
             }
         ]
     },
-    "hall": {
+    "showroom": {
         "name": "展厅",
         "data": [
             {
