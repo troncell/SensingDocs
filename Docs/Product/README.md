@@ -3,9 +3,7 @@ title: "I tryed to invoke my little star, but there was no recall, what a painfu
 queto: "Where is the realm of wisdom?"
 ---
 
-# 目录
 
-- [目录](#目录)
 - [云货架介绍](#云货架介绍)
   - [使用环境](#使用环境)
   - [github仓库地址：](#github仓库地址)
