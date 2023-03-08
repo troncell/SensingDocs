@@ -8,89 +8,89 @@
                 "path": "info",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":true,
-                "versionDownload":true
+                "development": true,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "播控系统",
-                "icon":"",
-                "path":"broadcast",
+                "icon": "",
+                "path": "broadcast",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":true,
-                "versionDownload":true
+                "development": true,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "客流系统",
-                "icon":"",
-                "path":"passenger",
+                "icon": "",
+                "path": "passenger",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":true,
-                "versionDownload":true
+                "development": true,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "互动软件",
-                "icon":"",
-                "path":"interaction",
+                "icon": "",
+                "path": "interaction",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":true,
-                "versionDownload":true
+                "development": true,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "云货架",
-                "icon":"",
-                "path":"cloudShelf",
+                "icon": "",
+                "path": "cloudShelf",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":true,
-                "versionDownload":true
+                "development": true,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "IOT感应互动",
-                "icon":"",
-                "path":"IOT",
+                "icon": "",
+                "path": "IOT",
                 "info": true,
                 "QA": false,
-                "development":true,
-                "configuration":true,
-                "versionDownload":true
+                "development": true,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "人脸闸机系统",
-                "icon":"",
-                "path":"faceGate",
+                "icon": "",
+                "path": "faceGate",
                 "info": true,
                 "QA": true,
-                "development":false,
-                "configuration":true,
-                "versionDownload":true
+                "development": false,
+                "configuration": true,
+                "versionDownload": true
             },
             {
                 "title": "机器人",
-                "icon":"",
-                "path":"robot",
+                "icon": "",
+                "path": "robot",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":true,
-                "versionDownload":false
+                "development": true,
+                "configuration": true,
+                "versionDownload": false
             },
             {
                 "title": "展示小程序",
-                "icon":"",
-                "path":"miniProgram",
+                "icon": "",
+                "path": "miniProgram",
                 "info": true,
                 "QA": true,
-                "development":true,
-                "configuration":false,
-                "versionDownload":true
+                "development": true,
+                "configuration": false,
+                "versionDownload": true
             }
         ]
     },
@@ -99,13 +99,23 @@
         "data": [
             {
                 "title": "客流系统",
+                "icon": "",
+                "path": "passengerFlow",
                 "info": true,
-                "QA": true
+                "QA": true,
+                "development": true,
+                "configuration": false,
+                "versionDownload": true
             },
             {
                 "title": "项目2",
+                "icon": "",
+                "path": "",
                 "info": true,
-                "QA": true
+                "QA": true,
+                "development": true,
+                "configuration": false,
+                "versionDownload": true
             }
         ]
     },
@@ -140,4 +150,3 @@
         ]
     }
 }
-      
