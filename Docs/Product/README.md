@@ -3,7 +3,6 @@ title: "I tryed to invoke my little star, but there was no recall, what a painfu
 queto: "Where is the realm of wisdom?"
 ---
 
-[toc]
 
 # 云货架介绍
 通过APPPOD输入设备秘钥，连通SensingStoreCloud平台，下载商品、广告等内容，然后用云货架展示商品。windows云货架可配置商品展示信息、展示样式。
