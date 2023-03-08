@@ -1,4 +1,3 @@
-
 ---
 title: "I tryed to invoke my little star, but there was no recall, what a painful day."
 queto: "Where is the realm of wisdom?"
