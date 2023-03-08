@@ -1,4 +1,9 @@
 
+---
+title: "I tryed to invoke my little star, but there was no recall, what a painful day."
+queto: "Where is the realm of wisdom?"
+---
+
 - [云货架介绍](#云货架介绍)
   - [使用环境](#使用环境)
   - [github仓库地址：](#github仓库地址)
@@ -18,7 +23,6 @@
       - [2.3.1 oss登录（用于上传product文件包）](#231-oss登录用于上传product文件包)
       - [2.3.1.1 软件下载安装](#2311-软件下载安装)
       - [2.3.1.2 上传文件包到oss](#2312-上传文件包到oss)
-
 
 # 云货架介绍
 通过APPPOD输入设备秘钥，连通SensingStoreCloud平台，下载商品、广告等内容，然后用云货架展示商品。windows云货架可配置商品展示信息、展示样式。
@@ -56,25 +60,7 @@ Android和H5（待定）
    （1）windows版安装，安装文档请参考：[应用安装.md](https://github.com/troncell/SensingDocs/blob/main/Docs/Product/%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85.md)
  
 # 云货架配置文档
-- [云货架介绍](#云货架介绍)
-  - [使用环境](#使用环境)
-  - [github仓库地址：](#github仓库地址)
-  - [使用流程](#使用流程)
-- [云货架配置文档](#云货架配置文档)
-  - [1. 环境安装](#1-环境安装)
-    - [1.1.net7.0安装](#11net70安装)
-    - [1.2 SDK安装](#12-sdk安装)
-  - [2.  配置](#2--配置)
-    - [2.1 配置文件路径](#21-配置文件路径)
-    - [2.2 配置介绍](#22-配置介绍)
-      - [2.2.1 **Setting.xml**](#221-settingxml)
-      - [2.2.2 **System.xml**](#222-systemxml)
-      - [2.2.3 **WallPage.xml**](#223-wallpagexml)
-      - [2.2.4 DetailsPage.xml](#224-detailspagexml)
-    - [2.3 product文件包压缩后上传](#23-product文件包压缩后上传)
-      - [2.3.1 oss登录（用于上传product文件包）](#231-oss登录用于上传product文件包)
-      - [2.3.1.1 软件下载安装](#2311-软件下载安装)
-      - [2.3.1.2 上传文件包到oss](#2312-上传文件包到oss)
+
 ## 1. 环境安装
 
    ###  1.1.net7.0安装
