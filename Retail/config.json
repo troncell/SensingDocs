@@ -10,30 +10,30 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "sample",
+                "path": "Sample",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "Sample/README.md",
+                        "url": "README.md",
                         "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "开发指南",
-                        "url": "Sample/答题派样页面配置.md",
+                        "url": "答题派样页面配置.md",
                         "type": "single"
                     },
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "Sample/后台配置.md",
+                        "url": "后台配置.md",
                         "type": "single"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "Sample/设备安装.md",
+                        "url": "设备安装.md",
                         "type": "single"
                     },
                     {
@@ -52,12 +52,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "elePriceTag",
+                "path": "ElePriceTag",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "ElectronicPriceTag/README.md",
+                        "url": "README.md",
                         "type": "single"
                     },
                     {
@@ -69,7 +69,7 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "ElectronicPriceTag/电子价签.md",
+                        "url": "电子价签.md",
                         "type": "single"
                     },
                     {
