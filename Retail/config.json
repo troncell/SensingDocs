@@ -703,25 +703,25 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "Sample/README.md",
                         "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "开发指南",
-                        "url": "",
+                        "url": "Sample/答题派样页面配置.md",
                         "type": "single"
                     },
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
+                        "url": "Sample/后台配置.md",
                         "type": "single"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "",
+                        "url": "Sample/设备安装.md",
                         "type": "single"
                     },
                     {
