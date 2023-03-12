@@ -57,7 +57,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "ElectronicPriceTag/README.md",
                         "type": "single"
                     },
                     {
@@ -69,7 +69,7 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
+                        "url": "ElectronicPriceTag/电子价签.md",
                         "type": "single"
                     },
                     {
