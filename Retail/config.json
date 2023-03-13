@@ -5,7 +5,7 @@
             {
                 "title": "派样机",
                 "icon": {
-                    "greyIocn": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleGrey.png",
                     "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleLight.png",
                     "w": "",
                     "h": ""
@@ -47,8 +47,8 @@
             {
                 "title": "电子价签",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -83,8 +83,8 @@
             {
                 "title": "无人店",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -119,8 +119,8 @@
             {
                 "title": "活动",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityLigth.png",
                     "w": "",
                     "h": ""
                 },
@@ -155,8 +155,8 @@
             {
                 "title": "云货架",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -197,8 +197,8 @@
             {
                 "title": "IOT感应互动",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -239,8 +239,8 @@
             {
                 "title": "售卖小程序",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -281,8 +281,8 @@
             {
                 "title": "自助收银",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -328,8 +328,8 @@
             {
                 "title": "信息发布",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -370,8 +370,8 @@
             {
                 "title": "播控系统",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -406,8 +406,8 @@
             {
                 "title": "客流系统",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -442,8 +442,8 @@
             {
                 "title": "互动软件",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -478,8 +478,8 @@
             {
                 "title": "云货架",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -520,8 +520,8 @@
             {
                 "title": "IOT感应互动",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -562,8 +562,8 @@
             {
                 "title": "人脸闸机系统",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -604,8 +604,8 @@
             {
                 "title": "机器人",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -646,8 +646,8 @@
             {
                 "title": "展示小程序",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramLight.png",
                     "w": "",
                     "h": ""
                 },
@@ -693,8 +693,8 @@
             {
                 "title": "SAT超声波",
                 "icon": {
-                    "greyIocn": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATGrey.png",
-                    "lightIcon": "",
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATLight.png",
                     "w": "",
                     "h": ""
                 },
