@@ -15,25 +15,26 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "README.md",
-                        "type": "single"
+                        "url": "README",
+                        "url2": "后台配置",
+                        "type": "multiple"
                     },
                     {
                         "id": 2,
                         "title": "开发指南",
-                        "url": "答题派样页面配置.md",
+                        "url": "答题派样页面配置",
                         "type": "single"
                     },
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "后台配置.md",
+                        "url": "后台配置",
                         "type": "single"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "设备安装.md",
+                        "url": "设备安装",
                         "type": "single"
                     },
                     {
@@ -57,7 +58,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "README.md",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -69,7 +70,7 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "电子价签.md",
+                        "url": "电子价签",
                         "type": "single"
                     },
                     {
