@@ -16,8 +16,12 @@
                         "id": 1,
                         "title": "简介",
                         "url": [
-                            "README",
-                            "后台配置"
+                            {
+                                "name": "README"
+                            },
+                            {
+                                "name": "后台配置"
+                            }
                         ],
                         "type": "multiple"
                     },
