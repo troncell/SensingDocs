@@ -1,0 +1,748 @@
+{
+    "retail": {
+        "name": "零售",
+        "data": [
+            {
+                "title": "派样机",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "Sample",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": [
+                            {
+                                "name": "README"
+                            },
+                            {
+                                "name": "后台配置"
+                            }
+                        ],
+                        "type": "multiple"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "答题派样页面配置",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "后台配置",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "设备安装",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "电子价签",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "ElectronicPriceTag",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "README",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "电子价签",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "无人店",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "pickGo",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "活动",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "activity",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "云货架",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "cloudShelf",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "IOT感应互动",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "IOT",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "售卖小程序",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "saleMiniProgram",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "自助收银",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "selfService",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            }
+        ]
+    },
+    "showroom": {
+        "name": "展厅",
+        "data": [
+            {
+                "title": "信息发布",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "info",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "播控系统",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "broadcast",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "客流系统",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "passenger",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "互动软件",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "interaction",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "云货架",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "cloudShelf",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "IOT感应互动",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "IOT",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "人脸闸机系统",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "faceGate",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "机器人",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "robot",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            },
+            {
+                "title": "展示小程序",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "miniProgram",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            }
+        ]
+    },
+    "factory": {
+        "name": "工厂",
+        "data": [
+            {
+                "title": "SAT超声波",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "SAT",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "开发指南",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 3,
+                        "title": "配置说明",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 4,
+                        "title": "版本下载",
+                        "url": "",
+                        "type": "single"
+                    },
+                    {
+                        "id": 5,
+                        "title": "问题&进度",
+                        "url": "",
+                        "type": "single"
+                    }
+                ]
+            }
+        ]
+    },
+    "downloadCenter": {
+        "name": "下载中心",
+        "url": "https://tailwindcss.com/docs/dark-mode"
+    }
+}
