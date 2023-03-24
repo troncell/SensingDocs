@@ -46,7 +46,7 @@
                     {
                         "id": 5,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "www.baidu.com",
                         "type": "single"
                     }
                 ]
@@ -340,12 +340,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "info",
+                "path": "AppPod",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "信息发布",
                         "type": "single"
                     },
                     {
