@@ -141,7 +141,7 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "activity",
+                "path": "Activity",
                 "pages": [
                     {
                         "id": 1,
@@ -531,7 +531,7 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "interaction",
+                "path": "InteractiveGames",
                 "pages": [
                     {
                         "id": 1,

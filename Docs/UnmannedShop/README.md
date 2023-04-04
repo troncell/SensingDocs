@@ -23,7 +23,7 @@
 
 # 使用流程
 
-1. 闸机apk安装，配置说明请参考：
+1. 闸机apk安装，配置说明请参考：[闸机apk安装](https://github.com/troncell/SensingDocs/blob/main/Docs/UnmannedShop/%E9%97%B8%E6%9C%BAapk%E5%AE%89%E8%A3%85.md)
 
 2. 货架校准，配置说明请参考：
    
