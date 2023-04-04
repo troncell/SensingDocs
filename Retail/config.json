@@ -595,7 +595,7 @@
                         "type": "single"
                     },
                     {
-                        "id": 2,
+                        "id": 3,
                         "title": "配置说明",
                         "url": [
                             {
@@ -849,7 +849,7 @@
                                 "name": "Scan"
                             },
                             {
-                                "name": "Analysis"
+                                "name": "Analysisgit"
                             }
                         ],
                         "type":"multiple"
