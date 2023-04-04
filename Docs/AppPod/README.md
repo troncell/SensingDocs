@@ -16,11 +16,10 @@
 # 使用环境
 信息发布支持Android和Windows
 
-  | 系统版本 | 阿里云下载地址 |钉钉下载|版本地址（NAS）| 
-|---|---|---|---|
-|Android | https://oss.console.aliyun.com/bucket/oss-cn-shanghai/troncell-releases/object?path=AppPod%2FAndroid%2Fsensingads%2F | 钉钉群：创思软件发布|/产品发布/Release/AppPod/Android |
-|Windows |无 | 无|/产品发布/Release/AppPod/Windows |
-
+  | 系统版本 | 阿里云下载地址 |钉钉下载|版本地址（NAS）|        
+|---|---|---|---|---|
+|Android | https://oss.console.aliyun.com/bucket/oss-cn-shanghai/troncell-releases/object?path=AppPod%2FAndroid%2Fsensingads%2F | 钉钉群：创思软件发布|\\192.168.3.8\产品发布\Release\AppPod\Android | 
+|Windows |无 | 无|\\192.168.3.8\产品发布\Release\AppPod\Windows |   
 
 # github仓库地址：
 

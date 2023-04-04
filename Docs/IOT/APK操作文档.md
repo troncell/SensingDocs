@@ -26,11 +26,7 @@
 
    （2）串口设备选择：ttyUSB0
 
-       波特率选择：115200 （需要根据不同的设备进行更改）
-
-       打开串口进行调试
-
-       点击命令列表的货道，查看是否掉货成功，成功后回到参数设定页面
+    波特率选择：115200 （需要根据不同的设备进行更改）
 
    <img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/2.png" alt="H5images" />
 

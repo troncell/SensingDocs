@@ -15,27 +15,30 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": [
-                            {
-                                "name": "README"
-                            },
-                            {
-                                "name": "后台配置"
-                            }
-                        ],
-                        "type": "multiple"
+                        "url": "README",
+                        "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "开发指南",
-                        "url": "答题派样页面配置",
+                        "url": "",
                         "type": "single"
                     },
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "后台配置",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "答题派样页面配置"
+                            },
+                            {
+                                "name": "后台配置"
+                            },
+                            {
+                                "name": "设备安装"
+                            } 
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,

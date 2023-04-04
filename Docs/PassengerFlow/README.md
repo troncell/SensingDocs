@@ -14,9 +14,9 @@
 
 1.配置摄像头信息，设置检测线和计数器
 
-系统配置参考文档：[用户行为分析系统配置]()
+系统配置参考文档：[用户行为分析系统配置](https://github.com/troncell/SensingDocs/blob/main/Docs/PassengerFlow/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE.md)
 
 2.连通sensingplatform，通过sensingplatform展示访问者数量
 
-sensingplatform接入摄像头文档：[Camera修改]()
+sensingplatform接入摄像头文档：[Camera修改](https://github.com/troncell/SensingDocs/blob/main/Docs/PassengerFlow/Camera%E4%BF%AE%E6%94%B9.md)
 
