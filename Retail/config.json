@@ -189,7 +189,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "READNE",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -660,7 +660,8 @@
                             {
                                 "name": "APK操作文档"
                             }
-                        ]
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -753,7 +754,8 @@
                             {
                                 "name": "信息发布"
                             }
-                        ]
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
