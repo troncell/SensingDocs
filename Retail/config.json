@@ -15,38 +15,41 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": [
-                            {
-                                "name": "README"
-                            },
-                            {
-                                "name": "后台配置"
-                            }
-                        ],
-                        "type": "multiple"
+                        "url": "README",
+                        "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "开发指南",
-                        "url": "答题派样页面配置",
+                        "url": "",
                         "type": "single"
                     },
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "后台配置",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "答题派样页面配置"
+                            },
+                            {
+                                "name": "后台配置"
+                            },
+                            {
+                                "name": "设备安装"
+                            } 
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "设备安装",
+                        "url": "Version",
                         "type": "single"
                     },
                     {
                         "id": 5,
                         "title": "问题&进度",
-                        "url": "https://www.baidu.com",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=189646710&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
                         "type": "single"
                     }
                 ]
@@ -95,12 +98,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "pickGo",
+                "path": "UnmannedShop",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -111,9 +114,16 @@
                     },
                     {
                         "id": 3,
-                        "title": "版本下载",
-                        "url": "",
-                        "type": "single"
+                        "title": "配置说明",
+                        "url": [
+                            {
+                                "name": "后台操作"
+                            },
+                            {
+                                "name": "闸门apk安装"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -131,19 +141,26 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "activity",
+                "path": "Activity",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "年会活动"
+                            },
+                            {
+                                "name": "体感游戏后台配置"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 3,
@@ -154,7 +171,7 @@
                     {
                         "id": 4,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244%2C102303869&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
                         "type": "single"
                     }
                 ]
@@ -167,12 +184,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "cloudShelf",
+                "path": "Product",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -184,19 +201,32 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "云货架配置"
+                            },
+                            {
+                                "name": "商品图自动化生成"
+                            }, 
+                            {
+                                "name": "后台操作"
+                            },
+                            {
+                                "name": "应用安装"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "",
+                        "url": "Version",
                         "type": "single"
                     },
                     {
                         "id": 5,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
                         "type": "single"
                     }
                 ]
@@ -214,7 +244,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -226,8 +256,16 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "后台文档"
+                            },
+                        
+                            {
+                                "name": "APK操作文档"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -251,12 +289,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "saleMiniProgram",
+                "path": "MiniProcedure",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -268,8 +306,16 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "售卖小程序"
+                            },
+                        
+                            {
+                                "name": "微信支付开通文档"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -280,7 +326,7 @@
                     {
                         "id": 5,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=103447546&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=progressing&target_project=",
                         "type": "single"
                     }
                 ]
@@ -345,7 +391,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "信息发布",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -357,19 +403,27 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "信息发布"
+                            },
+                        
+                            {
+                                "name": "AppPod安装"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "",
+                        "url": "Version",
                         "type": "single"
                     },
                     {
                         "id": 5,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=112847403&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
                         "type": "single"
                     }
                 ]
@@ -382,12 +436,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "broadcast",
+                "path": "bokong",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -399,8 +453,18 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "环境安装"
+                            },
+                            {
+                                "name": "后台操作"
+                            },
+                            {
+                                "name": "播控操作"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -418,12 +482,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "passenger",
+                "path": "PassengerFlow",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -434,12 +498,25 @@
                     },
                     {
                         "id": 3,
+                        "title": "配置说明",
+                        "url": [
+                            {
+                                "name": "用户行为分析系统配置"
+                            },
+                            {
+                                "name": "Camera修改"
+                            }
+                        ],
+                        "type":"multiple"
+                    },
+                    {
+                        "id": 4,
                         "title": "版本下载",
                         "url": "",
                         "type": "single"
                     },
                     {
-                        "id": 4,
+                        "id": 5,
                         "title": "问题&进度",
                         "url": "",
                         "type": "single"
@@ -454,19 +531,32 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "interaction",
+                "path": "InteractiveGames",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "ARPhantom"
+                            },
+                            {
+                                "name": "GameSetting"
+                            },
+                            {
+                                "name": "Photo"
+                            },
+                            {
+                                "name": "Question"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 3,
@@ -477,7 +567,7 @@
                     {
                         "id": 4,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=191559639&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
                         "type": "single"
                     }
                 ]
@@ -490,12 +580,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "cloudShelf",
+                "path": "Product",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -507,19 +597,32 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "云货架配置"
+                            },
+                            {
+                                "name": "商品图自动化生成"
+                            }, 
+                            {
+                                "name": "后台操作"
+                            },
+                            {
+                                "name": "应用安装"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
                         "title": "版本下载",
-                        "url": "",
+                        "url": "Version",
                         "type": "single"
                     },
                     {
                         "id": 5,
                         "title": "问题&进度",
-                        "url": "",
+                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
                         "type": "single"
                     }
                 ]
@@ -537,7 +640,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -549,8 +652,16 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "后台文档"
+                            },
+                        
+                            {
+                                "name": "APK操作文档"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -616,12 +727,12 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "robot",
+                "path": "Robot",
                 "pages": [
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -633,8 +744,18 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "电子货屏产品说明"
+                            },
+                            {
+                                "name": "品牌墙"
+                            },
+                            {
+                                "name": "信息发布"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
@@ -658,7 +779,7 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "miniProgram",
+                "path": "MiniProcedure",
                 "pages": [
                     {
                         "id": 1,
@@ -710,7 +831,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -722,8 +843,18 @@
                     {
                         "id": 3,
                         "title": "配置说明",
-                        "url": "",
-                        "type": "single"
+                        "url": [
+                            {
+                                "name": "硬币扫描"
+                            },
+                            {
+                                "name": "Scan"
+                            },
+                            {
+                                "name": "Analysisgit"
+                            }
+                        ],
+                        "type":"multiple"
                     },
                     {
                         "id": 4,
