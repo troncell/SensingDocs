@@ -5,6 +5,7 @@
 # 使用环境
 信息发布支持Android
 
+IOT包含：蓝牙、光敏、RFID
 
 # github仓库地址：
 
@@ -14,6 +15,9 @@
 1.后台文档
 
 进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置商品相关信息，包含模块：设备、商品、活动、广告等。
+
+详细配置说明请参考:[后台文档](https://github.com/troncell/SensingDocs/blob/main/Docs/IOT/%E5%90%8E%E5%8F%B0%E6%96%87%E6%A1%A3.md)
+
 2.apk文档
 
- （1）蓝牙感应
+ apk安装文档请参考：[APK操作文档](https://github.com/troncell/SensingDocs/blob/main/Docs/IOT/APK%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3.md)

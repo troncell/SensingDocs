@@ -8,7 +8,9 @@
 # github仓库地址：
 
 
+展示小程序：https://github.com/troncell/laofoye
 
+售卖小程序：https://github.com/troncell/sincere_dental
 
 
 # 使用流程

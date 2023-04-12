@@ -17,4 +17,4 @@
 
 3.接入商品，绑定电子价签
 
-配置说明请参考：[电子价签.md](https://github.com/troncell/SensingDocs/blob/main/Docs/ElectronicPriceTag/%E7%94%B5%E5%AD%90%E4%BB%B7%E7%AD%BE.md)
+详细配置说明请参考：[电子价签.md](https://github.com/troncell/SensingDocs/blob/main/Docs/ElectronicPriceTag/%E7%94%B5%E5%AD%90%E4%BB%B7%E7%AD%BE.md)

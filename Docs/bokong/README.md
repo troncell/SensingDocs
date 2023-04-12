@@ -9,6 +9,7 @@
 # github仓库地址
 SensingHub仓库地址：https://github.com/wulixu/SensingHub
 
+![environment1](/Docs/bokong/images/backstage/16.png)
 # 使用流程
 1.环境安装，安装播控环境
 

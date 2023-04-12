@@ -12,8 +12,14 @@
 ## github仓库地址：
 
 # 使用流程
- 电子货屏：安装电子货屏apk，通过APPPOD输入设备秘钥，连通SensingStoreCloud平台，下载商品信息，然后用云货架展示商品。
+ 1.电子货屏：安装电子货屏apk，通过APPPOD输入设备秘钥，连通SensingStoreCloud平台，下载商品信息，然后用云货架展示商品。
 
- 品牌墙：展示商场品牌信息和楼层导视
+ 详细配置说明请参考:[电子货屏产品说明](https://github.com/troncell/SensingDocs/blob/main/Docs/Robot/%E7%94%B5%E5%AD%90%E8%B4%A7%E5%B1%8F%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.md)
 
- 信息发布：ai.sensingstore平台配置播放素材信息，配置排程和点位播放内容。
+ 2.品牌墙：展示商场品牌信息和楼层导视
+
+详细配置说明请参考:[品牌墙](https://github.com/troncell/SensingDocs/blob/main/Docs/Robot/%E5%93%81%E7%89%8C%E5%A2%99.md)
+
+ 3.信息发布：ai.sensingstore平台配置播放素材信息，配置排程和点位播放内容。
+
+ 详细配置说明请参考:[信息发布](https://github.com/troncell/SensingDocs/blob/main/Docs/Robot/%E4%BF%A1%E6%81%AF%E5%8F%91%E5%B8%83.md)

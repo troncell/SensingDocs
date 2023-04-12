@@ -40,7 +40,7 @@
 
    （3）点击检查设备秘钥后，自动选择互动软件（即设备下活动里的游戏应用），回主页下方的灰色文字可进行核对信息是否正确。文字内容是：对应的设备名称、店铺名称和软件版本号。
 
-   （4）贩卖机选择美斯特蓝牙，点击回主页
+   （4）贩卖机选择美斯特蓝牙/光敏/rfid，点击回主页
 
     <img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/3.png" alt="H5images" />
 

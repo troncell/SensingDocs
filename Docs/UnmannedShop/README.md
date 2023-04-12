@@ -25,12 +25,12 @@
 
 1. 闸机apk安装，配置说明请参考：[闸机apk安装](https://github.com/troncell/SensingDocs/blob/main/Docs/UnmannedShop/%E9%97%B8%E6%9C%BAapk%E5%AE%89%E8%A3%85.md)
 
-2. 货架校准，配置说明请参考：
+2. 货架校准，配置说明请参考：[货架校准](https://github.com/troncell/SensingDocs/blob/main/Docs/UnmannedShop/%E8%B4%A7%E6%9E%B6%E6%A0%A1%E5%87%86.md)
    
 3. 电子价签设置，配置说明请参考：[ElectronicPriceTag文件](https://github.com/troncell/SensingDocs/tree/main/Docs/ElectronicPriceTag)
 
-4. 后台货架设置，配置说明请参考：
+4. 后台货架设置，配置说明请参考：[后台操作](https://github.com/troncell/SensingDocs/blob/main/Docs/UnmannedShop/%E5%90%8E%E5%8F%B0%E6%93%8D%E4%BD%9C.md)
 
-5. 货架apk安装，配置说明请参考：
+5. 货架apk安装，配置说明请参考：[安装货架](https://github.com/troncell/SensingDocs/blob/main/Docs/UnmannedShop/%E5%AE%89%E8%A3%85%E8%B4%A7%E6%9E%B6.md)
 
 6. 条形屏apk安装，配置说明请参考：

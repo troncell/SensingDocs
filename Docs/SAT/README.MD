@@ -20,11 +20,17 @@
 # github仓库地址：
 
 
+扫描软件：https://github.com/wulixu/NDT.ScanUI
+
+分析软件：https://github.com/wulixu/NDT.AnalysisUI
+
+
 
 # 使用流程
 
-1.SAT超声波扫描软件介绍文档：
+1.SAT超声波扫描软件介绍文档，详细文档请参考：[Scan.md](https://github.com/troncell/SensingDocs/blob/main/Docs/SAT/Scan.md)
 
 
+2.SAT超声波分析软件介绍，详细文档请参考:[Analysis.md](https://github.com/troncell/SensingDocs/blob/main/Docs/SAT/Analysis.md)
 
-2.SAT超声波分析软件介绍
+3.扫描流程介绍，以硬币为例，详细文档请参考：[硬币扫描.md](https://github.com/troncell/SensingDocs/blob/main/Docs/SAT/%E7%A1%AC%E5%B8%81%E6%89%AB%E6%8F%8F.md)
