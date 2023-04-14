@@ -2,6 +2,8 @@
 
 ## 1.1 APK安装
 
+安装包地址：\\192.168.3.8\产品发布\Release\Cashier
+
 方案一：adb命令安装
 
 1. 安装adb环境 [参考文档](https://blog.csdn.net/weixin_55018452/article/details/121992202) 
