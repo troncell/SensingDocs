@@ -11,13 +11,6 @@
 # 使用环境
 闸机、条形屏、货架apk目前仅支持Android
 
- |apk | 系统版本 | NAS地址| 
-|---|---|---|
-|sensing-shelf.apk|Android |\\192.168.3.8\产品发布\Release\UnmannedShop|
-|sensing-gate.apk|Android |\\192.168.3.8\产品发布\Release\UnmannedShop|
-|SensingShelfDisplay.apk|Android |\\192.168.3.8\产品发布\Release\UnmannedShop|
-
-
 # github仓库地址：
 
 
