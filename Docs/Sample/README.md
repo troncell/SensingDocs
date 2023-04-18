@@ -24,6 +24,6 @@
     详细配置说明请参考:[自主售卖]()
 
 3. 设备安装：设备上安装Sample软件。输入服务器地址和设备密钥，调试串口设备，定期对贩卖机进行补货。
-
+  
    详细安装说明请参考：[设备安装](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85.md)
 
