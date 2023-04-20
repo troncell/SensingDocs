@@ -2,7 +2,7 @@
 当消费者拿起商品时，屏幕就能用图案、文字、视频相结合的方式显示相关的商品信息，如生产商、品牌商、成份等，同时智能查询推荐相关联的商品，以促进消费者对商品直观的了解，还能促进其他商品的消费。还能够让管理者了解各种各样商品被用户拿起的次数，进而对商品的摆设和营销战略提供数据基础。
 
 商品信息例图
-![bimages](/UserDocs/IOT感应/images/1.png)
+![bimages](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/UserDocs/IOT%E6%84%9F%E5%BA%94/images/1.png)
 
 # 配置文档
 ## 1.登录
@@ -85,19 +85,19 @@ warning:sku需要填写的字段依据大屏需要显示的内容填写
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0521/163817_bf15c532_8867015.png "屏幕截图.png")
 
 ## 3.3上线商品和sku
-![Electronic24](/Docs/ElectronicPriceTag/images/Electronic/24.jpg)
-![Electronic20](/Docs/ElectronicPriceTag/images/Electronic/34.png)
-![Electronic20](/Docs/ElectronicPriceTag/images/Electronic/35.png)
+![Electronic24](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/24.jpg)
+![Electronic20](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/34.png)
+![Electronic20](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/35.png)
 
 # 4.设备
 ## 4.1 创建设备
 
-![Electronic20](/Docs/ElectronicPriceTag/images/Electronic/20.png)
-![Electronic21](/Docs/ElectronicPriceTag/images/Electronic/21.jpg)
+![Electronic20](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/20.png)
+![Electronic21](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/21.jpg)
 
 ## 4.2 商品发布至设备
-![Electronic26](/Docs/ElectronicPriceTag/images/Electronic/26.png)
-![Electronic27](/Docs/ElectronicPriceTag/images/Electronic/27.png)
+![Electronic26](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/26.png)
+![Electronic27](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/27.png)
 
 # 5.活动
 ## 5.1创建活动

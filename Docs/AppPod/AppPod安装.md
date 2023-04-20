@@ -1,6 +1,8 @@
 # SensingAds APK
 
 # 目录
+- [SensingAds APK](#sensingads-apk)
+- [目录](#目录)
   - [1.Android版](#1android版)
     - [1.1 APK安装](#11-apk安装)
     - [1.2登录设备密钥](#12登录设备密钥)
@@ -37,7 +39,7 @@
 
 2. 输入服务器地址：https://d-gw.api.troncell.com
    
-   <img style="width:200px" class="right" src="/Docs/AppPod/images/Deviceimages/1.png" alt="Deviceimages" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/1.png" alt="Deviceimages" />
 
 3. 输入设备密钥，点击注册（注：若密钥在其他机器上登录过，会有红色字体提醒，需要单击红色字体后再点击注册）
 
@@ -57,7 +59,7 @@
   "OpenSettingPassword":"2020"
 }
 
-![Deviceimages](./images/Deviceimages/7.png)
+![Deviceimages](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/7.png)
 
 1. 修改设备密钥后，点击注册
 
@@ -74,11 +76,11 @@
 ### 1.4设置页面
 **步骤：注册页面-点击右下角小图标-进入设置页面**
 
-   <img style="width:200px" class="right" src="/Docs/AppPod/images/Deviceimages/5.png" alt="Deviceimages" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/5.png" alt="Deviceimages" />
 
 （1）广告信息：打开广告信息，再进入播放界面，下方会显示具体播放信息
 
-  <img style="width:200px" class="right" src="/Docs/AppPod/images/Deviceimages/6.png" alt="Deviceimages" />
+  <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/6.png" alt="Deviceimages" />
 
 （2）Debug：打开Debug，再进入播放界面，播放H5内容时下拉可以刷新页面。关闭Debug，播放H5页面下拉不会刷新。
 
@@ -88,13 +90,13 @@
 ### 2.1登录设备密钥
 1. 双击打开AppPod.exe,输入设备密钥，点击检查KEY.显示设备信息
      
-   <img style="width:200px" class="right" src="/Docs\AppPod\images\Deviceimages\2.png" alt="Deviceimages" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/2.png" alt="Deviceimages" />
 
 2. 点击注册
 
 3. 注册完成后，机器上提示资源下载中，左下角显示对应的租户、设备，右下角显示版本号。下载完成后显示播放内容
-4. 
-   <img style="width:200px" class="right" src="/Docs\AppPod\images\Deviceimages\4.png" alt="Deviceimages" />
+  
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/4.png" alt="Deviceimages" />
 
 ### 2.2更换设备密钥
 1. 按下键盘里的F8，弹出设备注册界面
@@ -105,7 +107,7 @@
 
 4. 若注册的设备已经在其他设备注册过，会提示注册失败，按下键盘F2，再点击注册即可
    
-    <img style="width:200px" class="right" src="/Docs\AppPod\images\Deviceimages\3.png" alt="Deviceimages" />
+    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/images/Deviceimages/3.png" alt="Deviceimages" />
 ## 3.设置介绍
 
 1. 入口：注册页，右下角设置图标，点击进入

@@ -24,7 +24,7 @@ apk地址：\\192.168.3.8\产品发布\Release\Cashier
 
 1.首页：无人操作时显示页面.
 
-  <img style="width:200px" class="right" src="/Docs/Cashier/images/1.jpg" alt="images" />
+  <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/images/1.jpg" alt="images" />
 
 2.切换设备密钥
 
@@ -37,12 +37,12 @@ apk地址：\\192.168.3.8\产品发布\Release\Cashier
 3.点击保存后，重新打APK
 
 
-  <img style="width:200px" class="right" src="/Docs/Cashier/images/2.jpg" alt="images" />
+  <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/images/2.jpg" alt="images" />
 
   3.扫描商品码页面
 
   
-  <img style="width:200px" class="right" src="/Docs/Cashier/images/3.jpg" alt="images" />
+  <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/images/3.jpg" alt="images" />
 
   4.扫码后购物车页面
 
@@ -51,5 +51,5 @@ apk地址：\\192.168.3.8\产品发布\Release\Cashier
   输入条形码：输入商品条形码后，点击确认，商品在购物车显示
 
   结算：点击结算，选择支付宝或微信支付
-<img style="width:200px" class="right" src="/Docs/Cashier/images/4.jpg" alt="images" />
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/images/4.jpg" alt="images" />
 

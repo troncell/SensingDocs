@@ -1,5 +1,6 @@
 # 目录
 
+- [目录](#目录)
 - [1. 软件包](#1-软件包)
   - [1.1 软件包地址](#11-软件包地址)
   - [1.2 配置路径](#12-配置路径)
@@ -372,9 +373,9 @@ goStep1AndClearCanvas, goStep1, goStep2, goStep3, goStep4, goStep5, goStep6, res
 
 ## 3.2 案例图
 **Step1页面**
-![Signature](./images/1.png)
+![Signature](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Signaturewall/images/1.png)
 **Step2页面**
-![Signature](./images/2.png)
+![Signature](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Signaturewall/images/2.png)
 
 #  4. 修改网络配置
 

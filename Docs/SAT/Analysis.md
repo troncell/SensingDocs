@@ -7,56 +7,56 @@
 
 打开软件，弹出许可证弹框。单击close，进入分析软件。
 
-![Analysis1](/Docs/SAT/images/AnalysisImgs/1.png)
+![Analysis1](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/1.png)
 
 ## 2.读取扫描
 
 单击右上角图标的下拉按钮，点击读取扫描，选择需要分析的isd文件，点击确定
 
-![Analysis2](/Docs/SAT/images/AnalysisImgs/2.png)
+![Analysis2](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/2.png)
 
-![Analysis3](/Docs/SAT/images/AnalysisImgs/3.png)
+![Analysis3](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/3.png)
 
 ### 2.1菜单栏：ROI
 
-![Analysis4](/Docs/SAT/images/AnalysisImgs/4.png)
+![Analysis4](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/4.png)
 
-![Analysis5](/Docs/SAT/images/AnalysisImgs/5.png)  箭头：选中roi框
+![Analysis5](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/5.png)  箭头：选中roi框
 
-![Analysis6](/Docs/SAT/images/AnalysisImgs/6.png)  方形：框选区域为正方形
+![Analysis6](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/6.png)  方形：框选区域为正方形
 
-![Analysis7](/Docs/SAT/images/AnalysisImgs/7.png)  圆形：框选区域为圆形
+![Analysis7](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/7.png)  圆形：框选区域为圆形
 
-![Analysis8](/Docs/SAT/images/AnalysisImgs/8.png)  钢笔：自定义框选区域
+![Analysis8](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/8.png)  钢笔：自定义框选区域
 
-![Analysis9](/Docs/SAT/images/AnalysisImgs/9.png)  魔术棒：自动框选一个区域
+![Analysis9](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/9.png)  魔术棒：自动框选一个区域
 
-![Analysis10](/Docs/SAT/images/AnalysisImgs/10.png)  自动框选：自动框选样品上的区域
+![Analysis10](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/10.png)  自动框选：自动框选样品上的区域
 
-![Analysis11](/Docs/SAT/images/AnalysisImgs/11.png)   添加：框选区域后，需要点击添加按钮，否则为未框选
+![Analysis11](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/11.png)   添加：框选区域后，需要点击添加按钮，否则为未框选
 
-![Analysis12](/Docs/SAT/images/AnalysisImgs/12.png)   删除：选中框选区域后，点击删除按钮，可删除选中的区域
+![Analysis12](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/12.png)   删除：选中框选区域后，点击删除按钮，可删除选中的区域
 
-![Analysis13](/Docs/SAT/images/AnalysisImgs/13.png)  全部删除：箭头选中状态下，点击全部删除，可删除所有框选区域（删除所有ROI）
+![Analysis13](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/13.png)  全部删除：箭头选中状态下，点击全部删除，可删除所有框选区域（删除所有ROI）
 
-![Analysis14](/Docs/SAT/images/AnalysisImgs/14.png)   底色：点击底色按钮，所有框选的roi底色会不显示
+![Analysis14](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/14.png)   底色：点击底色按钮，所有框选的roi底色会不显示
 
 
 ## 3.参数信息
 
-![Analysis15](/Docs/SAT/images/AnalysisImgs/15.png)  ![Analysis16](/Docs/SAT/images/AnalysisImgs/16.png)  ![Analysis17](/Docs/SAT/images/AnalysisImgs/17.png)
+![Analysis15](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/15.png)  ![Analysis16](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/16.png)  ![Analysis17](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/17.png)
 
-**扫描图片：读取成像图，单击一个图片，右侧显示显示图片**
+扫描图片：读取成像图，单击一个图片，右侧显示显示图片
 
-**扫描参数：**
+扫描参数：
 
-**Recipe:**** 扫描样品相关设置信息**
+Recipe: 扫描样品相关设置信息
 
-**P/R-Ch.A**** ： ****dpr**** 设置相关信息**
+P/R-Ch.A ： dpr设置相关信息
 
 ## 4.显示区
 
-![Analysis18](/Docs/SAT/images/AnalysisImgs/18.png)
+![Analysis18](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/18.png)
 
 ### 4.2颜色条
 
@@ -74,7 +74,7 @@
 
 ## 5.缺陷列表
 
-![Analysis19](/Docs/SAT/images/AnalysisImgs/19.png)
+![Analysis19](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/19.png)
 ### 5.1缺陷参数设置：
 
 振幅区间：设置振幅区间
@@ -89,7 +89,7 @@
 
 ### 5.2执行结果
 
-![Analysis20](/Docs/SAT/images/AnalysisImgs/20.png)
+![Analysis20](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/20.png)
 
 缺陷统计：执行后显示所有ROI的缺陷数量、面积以及占比
 
@@ -97,18 +97,18 @@
 
 ## 6.详细信息
 
-### **6.1**  **详细信息**
+### 6.1详细信息
 
 显示区点击箭头图标，选中图片上的ROI框，详细信息里显示该ROI的位置以及缺陷列表
 
-![Analysis21](/Docs/SAT/images/AnalysisImgs/21.png)
+![Analysis21](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/21.png)
 
 
 ## 7.决策树
 
 ### 7.1判定条件
 
-![Analysis22](/Docs/SAT/images/AnalysisImgs/22.png)
+![Analysis22](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/22.png)
 
 勾选的条件参与判定 ，若未勾选则不参与判定
 
@@ -126,32 +126,32 @@
 
 ### 7.2判定结果
 
-![Analysis23](/Docs/SAT/images/AnalysisImgs/23.png)
+![Analysis23](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/23.png)
 
 #### 7.2.1 判定统计
 
-![Analysis24](/Docs/SAT/images/AnalysisImgs/24.png)显示总ROI数量
+![Analysis24](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/24.png)显示总ROI数量
 
-![Analysis25](/Docs/SAT/images/AnalysisImgs/25.png)显示ROI判定为OK的数量
+![Analysis25](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/25.png)显示ROI判定为OK的数量
 
-![Analysis26](/Docs/SAT/images/AnalysisImgs/26.png)显示ROI判定为NG的数量
+![Analysis26](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/26.png)显示ROI判定为NG的数量
 
 #### 7.2.2 判定列表
 
 显示每个ROI判定条件以及对应的结果
 
-![Analysis27](/Docs/SAT/images/AnalysisImgs/27.png)
+![Analysis27](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/27.png)
 
 #### 7.2.3判定详情
 
 显示选中ROI判定详情
 
-![Analysis28](/Docs/SAT/images/AnalysisImgs/28.png)
+![Analysis28](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/28.png)
 #### 7.2.4图片显示
 
 判定后，图片上ROI右下角显示判定结果
 
-![Analysis29](/Docs/SAT/images/AnalysisImgs/29.png)
+![Analysis29](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/29.png)
 
 
 ## 8.生成报告
@@ -163,4 +163,4 @@
 3.点击生成报告
 
 4.导出pdf文件
-![Analysis29](/Docs/SAT/images/AnalysisImgs/31.png)
+![Analysis29](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/SAT/images/AnalysisImgs/31.png)

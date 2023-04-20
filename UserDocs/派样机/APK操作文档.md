@@ -6,7 +6,7 @@
 
 答题派样大屏首页案例：
 
-   <img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/6.png" alt="H5images" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/6.png" alt="H5images" />
 
 
 ## 更换设备密钥
@@ -19,10 +19,10 @@
 上传日志：若贩卖机出现故障，可以点击上传日志
 参数设定：返回参数设定界面，可修改服务器地址、设备密钥等信息
 退出程序：退出软件
-<img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/4.png" alt="H5images" />
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/4.png" alt="H5images" />
 
 # 补货界面
-!["Deviceimages"](/Docs/Sample/images/Deviceimages/5.png)
+!["Deviceimages"](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/5.png)
 
 
 

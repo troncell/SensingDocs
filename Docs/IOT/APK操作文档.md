@@ -20,7 +20,7 @@
 
    （1）单击页面右下角图标
 
-   <img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/1.png" alt="H5images" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/1.png" alt="H5images" />
 
 
 
@@ -28,7 +28,7 @@
 
     波特率选择：115200 （需要根据不同的设备进行更改）
 
-   <img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/2.png" alt="H5images" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/2.png" alt="H5images" />
 
 2. 秘钥和链接设置
 
@@ -42,7 +42,7 @@
 
    （4）贩卖机选择美斯特蓝牙/光敏/rfid，点击回主页
 
-    <img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/3.png" alt="H5images" />
+    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/3.png" alt="H5images" />
 
 
 
@@ -65,4 +65,4 @@
 上传日志：若贩卖机出现故障，可以点击上传日志
 参数设定：返回参数设定界面，可修改服务器地址、设备密钥等信息
 退出程序：退出软件
-<img style="width:200px" class="right" src="/Docs/Sample/images/Deviceimages/4.png" alt="H5images" />
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/4.png" alt="H5images" />

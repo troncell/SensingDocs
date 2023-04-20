@@ -5,7 +5,7 @@
 # 修改Data.xml
 1.打开demo文件夹，进入文件夹下Shell\Data，双击Data.xml
 
-![images](/Docs/PassengerFlow/images/8.png)
+![images](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/PassengerFlow/images/8.png)
 
 2.修改ip和添加计数器
 
@@ -31,4 +31,4 @@
  您是本月第  1 位参访者
 
  您是今日第  1 位参访者
-![images](/Docs/PassengerFlow/images/9.png)
+![images](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/PassengerFlow/images/9.png)

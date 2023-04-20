@@ -16,11 +16,11 @@
 
    Hub地址：：http://192.168.1.7:8080  (具体根据项目由开发提供)
 
-   <img style="width:200px" class="right" src="./images/Gateimages/1.png" alt="Gateimages" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/1.png" alt="Gateimages" />
 
 3. 点击保存
 4. 页面显示
-    <img style="width:200px" class="right" src="./images/Gateimages/2.png" alt="Gateimages" />
+    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/2.png" alt="Gateimages" />
 
    如果hub未填写，页面右下角会显示红色字体：hub未连接)
 5. 开机若需要自启动，需要在机器里设置
@@ -30,13 +30,13 @@
 
    提示：XXX，欢迎惠顾!
 
-     <img style="width:200px" class="right" src="./images/Gateimages/3.png" alt="Gateimages" />
+     <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/3.png" alt="Gateimages" />
 
 2. 扫描失效的二维码
 
    提示：请刷新二维码，再重试！
 
-   <img style="width:200px" class="right" src="./images/Gateimages/4.png" alt="Gateimages" />
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/4.png" alt="Gateimages" />
 
 3. 出门提示：有会员，成功出店！
    
