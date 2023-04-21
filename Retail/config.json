@@ -657,7 +657,7 @@
                         "type": "single"
                     },
                     {
-                        "id": 3,
+                        "id": 2,
                         "title": "配置说明",
                         "url": [
                             {
@@ -687,7 +687,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
