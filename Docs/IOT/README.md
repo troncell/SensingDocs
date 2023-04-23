@@ -8,7 +8,7 @@
 IOT包含：蓝牙、光敏、RFID
 
 # github仓库地址：
-
+https://github.com/troncell/H5Pages/tree/main/pickUp
 
 # 使用流程
 

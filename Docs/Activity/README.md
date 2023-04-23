@@ -5,7 +5,7 @@
 
 #  github仓库地址：
 
-年会活动地址：
+年会活动地址：https://github.com/wulixu/h5games/tree/develop
 
 互动游戏地址：
 

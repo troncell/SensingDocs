@@ -8,7 +8,8 @@
 
 # github仓库地址：
 
-  派样活动系统仓库：https://github.com/troncell/AppPodAndroid/
+  Sample：https://github.com/troncell/AppPodAndroid/
+  前端地址：https://github.com/troncell/H5Pages/tree/main/sampling
 # 使用流程
 1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置派样机活动相关信息，包含模块：设备、线上店铺（微商城）、答题、活动、权益等。
 
