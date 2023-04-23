@@ -39,9 +39,9 @@
                             },
                             {
                                 "name": "设备安装"
-                            } 
+                            }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 4,
@@ -120,7 +120,7 @@
                                 "name": "闸门apk安装"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -163,7 +163,7 @@
                                 "name": "体感游戏后台配置"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -198,7 +198,7 @@
                             },
                             {
                                 "name": "商品图自动化生成"
-                            }, 
+                            },
                             {
                                 "name": "后台操作"
                             },
@@ -206,7 +206,7 @@
                                 "name": "应用安装"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -245,12 +245,11 @@
                             {
                                 "name": "后台文档"
                             },
-                        
                             {
                                 "name": "APK操作文档"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -283,12 +282,11 @@
                             {
                                 "name": "售卖小程序"
                             },
-                        
                             {
                                 "name": "微信支付开通文档"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -306,7 +304,7 @@
                     "w": "",
                     "h": ""
                 },
-                "path": "selfService",
+                "path": "Cashier",
                 "pages": [
                     {
                         "id": 1,
@@ -321,12 +319,11 @@
                             {
                                 "name": "后台文档"
                             },
-                        
                             {
                                 "name": "APK操作文档"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -370,12 +367,11 @@
                             {
                                 "name": "信息发布"
                             },
-                        
                             {
                                 "name": "AppPod安装"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -421,14 +417,14 @@
                                 "name": "播控操作"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
                         "title": "版本下载",
                         "url": "Version",
                         "type": "single"
-                    }, 
+                    },
                     {
                         "id": 4,
                         "title": "问题&进度",
@@ -464,7 +460,7 @@
                                 "name": "Camera修改"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     }
                 ]
             },
@@ -501,7 +497,7 @@
                                 "name": "Question"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -536,7 +532,7 @@
                             },
                             {
                                 "name": "商品图自动化生成"
-                            }, 
+                            },
                             {
                                 "name": "后台操作"
                             },
@@ -544,7 +540,7 @@
                                 "name": "应用安装"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
@@ -583,12 +579,11 @@
                             {
                                 "name": "后台文档"
                             },
-                        
                             {
                                 "name": "APK操作文档"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     },
                     {
                         "id": 5,
@@ -657,7 +652,7 @@
                         "type": "single"
                     },
                     {
-                        "id": 3,
+                        "id": 2,
                         "title": "配置说明",
                         "url": [
                             {
@@ -670,7 +665,7 @@
                                 "name": "信息发布"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     }
                 ]
             },
@@ -687,7 +682,7 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
@@ -739,7 +734,7 @@
                                 "name": "Analysis"
                             }
                         ],
-                        "type":"multiple"
+                        "type": "multiple"
                     }
                 ]
             }
@@ -748,5 +743,32 @@
     "downloadCenter": {
         "name": "下载中心",
         "url": "https://tailwindcss.com/docs/dark-mode"
-    }
+    },
+    "advertisement": [
+        {
+            "title": "发现新版本",
+            "version": "v1.0.1",
+            "img": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/advertisement/advertisementBg.png",
+            "subTitle": "AppPod新版本更新",
+            "info": [
+                {
+                    "detail": [
+                        {
+                            "name": "1.添加美斯特蓝牙设备"
+                        },
+                        {
+                            "name": "2.添加英格智能灯光设备"
+                        },
+                        {
+                            "name": "3.修改cash缓存策略"
+                        }
+                    ]
+                }
+            ],
+            "goDownload": {
+                "isShow": true,
+                "path": "/site/showroom/AppPod?optionId=3"
+            }
+        }
+    ]
 }
