@@ -698,6 +698,30 @@
                         "type": "single"
                     }
                 ]
+            },
+            {
+                "title": "雷达",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "Radar",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "README",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "配置说明",
+                        "url": "雷达系统安装",
+                        "type": "single"
+                    }
+                ]
             }
         ]
     },
