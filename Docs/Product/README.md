@@ -18,6 +18,9 @@ Android和H5（待定）
 
 ## github仓库地址：
 
+https://github.com/wulixu/ProductGrid
+最新的分支为V10
+
 
 ## 使用流程
 1. 页面配置
