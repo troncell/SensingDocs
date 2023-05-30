@@ -14,16 +14,16 @@
 
 进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置商品相关信息，包含模块：设备、活动等。
 
-详细配置说明请参考:[后台文档]()
+详细配置说明请参考:[后台文档](https://github.com/troncell/SensingDocs/blob/main/Docs/Gate/%E5%90%8E%E5%8F%B0%E6%96%87%E6%A1%A3.md)
 
 2.会员注册
 
 扫码注册人脸，填写会员信息
 
-文档请参考：[Regist]()
+文档请参考：[Regist](https://github.com/troncell/SensingDocs/blob/main/Docs/Gate/Register.md)
 
 3.人脸apk安装和使用
 
-文档请参考：[apk安装和使用]()
+文档请参考：[apk安装和使用](https://github.com/troncell/SensingDocs/blob/main/Docs/Gate/%E9%97%B8%E6%9C%BAapk%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
 
 
