@@ -2,9 +2,7 @@
 
 采用SensingHub，SensingHub是一个本地化的多功能的Web服务，主要负责同一场所下的所有智能设备的基础设置管理、设备下的多媒体资源管理、设备中应用软件中实时事件的分发以及对应的数据收集.
 
-# 使用环境
-
-
+ <img style="width:400px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/30.jpg" alt="images" />
 
 # github仓库地址
 SensingHub仓库地址：https://github.com/wulixu/SensingHub
