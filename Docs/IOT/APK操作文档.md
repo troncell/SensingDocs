@@ -1,4 +1,4 @@
-# 一、 机器上安装apk派样机
+# 一、 机器上安装派样机apk（Sample）
 方案一：adb命令安装
 
 1. 安装adb环境 [参考文档](https://blog.csdn.net/weixin_55018452/article/details/121992202) 
@@ -28,6 +28,8 @@
 
     波特率选择：115200 （需要根据不同的设备进行更改）
 
+    可参考文档：[设备安装](https://github.com/troncell/SensingDocs/blob/main/Docs/Sample/%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85.md)
+
    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/2.png" alt="H5images" />
 
 2. 秘钥和链接设置
@@ -40,12 +42,16 @@
 
    （3）点击检查设备秘钥后，自动选择互动软件（即设备下活动里的游戏应用），回主页下方的灰色文字可进行核对信息是否正确。文字内容是：对应的设备名称、店铺名称和软件版本号。
 
-   （4）贩卖机选择美斯特蓝牙/光敏/rfid，点击回主页
+   （4）IOT感应类型：蓝牙、光敏
+
+   贩卖机选择美斯特蓝牙/光敏/rfid，点击回主页
 
     <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/3.png" alt="H5images" />
+  （5）IOT感应类型：重力感应
+     
+ 需要使用两个apk，Sample和重力货架，sample贩卖机可任意选择
 
-
-
+ 重力货架信息只需要填写设备Subkey和云服务地址，其余可参考文档：[安装货架](https://github.com/troncell/SensingDocs/blob/main/Docs/UnmannedShop/%E5%AE%89%E8%A3%85%E8%B4%A7%E6%9E%B6.md)
 # 三、设置界面
 注意：
 （1）在首页和补货页面，都可以长按右下角，输入密码跳到其他页面。

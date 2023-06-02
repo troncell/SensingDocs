@@ -7,6 +7,16 @@ queto: "Where is the realm of wisdom?"
 # 云货架介绍
 通过APPPOD输入设备秘钥，连通SensingStoreCloud平台，下载商品、广告等内容，然后用云货架展示商品。windows云货架可配置商品展示信息、展示样式。
 
+云货架样例：
+
+    A.无人操作时，播放广告页
+
+    B.用户点击屏幕显示商品列表
+
+    C.点击商品可查看商品详情
+
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Product/images/installimages/5.png" alt="installimages" /><img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Product/images/installimages/6.png" alt="installimages" /><img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Product/images/installimages/7.png" alt="installimages" />
+
 ## 使用环境
 云货架支持Windows
 

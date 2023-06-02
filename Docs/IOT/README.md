@@ -5,7 +5,7 @@
 # 使用环境
 信息发布支持Android
 
-IOT包含：蓝牙、光敏、RFID
+IOT包含：蓝牙、光敏、九方汇（RFID）、重力
 
 # github仓库地址：
 https://github.com/troncell/H5Pages/tree/main/pickUp
@@ -18,7 +18,9 @@ https://github.com/troncell/H5Pages/tree/main/pickUp
 
 详细配置说明请参考:[后台文档](https://github.com/troncell/SensingDocs/blob/main/Docs/IOT/%E5%90%8E%E5%8F%B0%E6%96%87%E6%A1%A3.md)
 
-2.apk文档
+2.apk文档：蓝牙、光敏、九方汇（RFID）、重力IOT感应
+
+采用Sample应用，输入设备密钥，修改对应的贩卖机类型，重力需要安装重力货架apk和Sample应用结合使用
 
  apk安装文档请参考：[APK操作文档](https://github.com/troncell/SensingDocs/blob/main/Docs/IOT/APK%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3.md)
 
