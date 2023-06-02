@@ -606,31 +606,29 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
                         "id": 2,
-                        "title": "开发指南",
-                        "url": "",
-                        "type": "single"
+                        "title": "配置说明",
+                        "url": [
+                            {
+                                "name": "后台文档"
+                            },
+                            {
+                                "name": "Register"
+                            },
+                            {
+                                "name": "闸机apk安装和使用"
+                            }
+                        ],
+                        "type": "multiple"
                     },
                     {
                         "id": 3,
-                        "title": "配置说明",
-                        "url": "",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
                         "title": "版本下载",
-                        "url": "",
-                        "type": "single"
-                    },
-                    {
-                        "id": 5,
-                        "title": "问题&进度",
-                        "url": "",
+                        "url": "Version",
                         "type": "single"
                     }
                 ]
@@ -736,13 +734,27 @@
                     {
                         "id": 1,
                         "title": "简介",
-                        "url": "",
+                        "url": "README",
                         "type": "single"
                     },
                     {
                         "id": 2,
                         "title": "配置说明",
-                        "url": "",
+                        "url": [
+                            {
+                                "name": "后台文档"
+                            },
+                            {
+                                "name": "apk安装"
+                            }
+                           
+                        ],
+                        "type": "multiple"
+                    },
+                    {
+                        "id": 3,
+                        "title": "版本下载",
+                        "url": "Version",
                         "type": "single"
                     }
                 ]
