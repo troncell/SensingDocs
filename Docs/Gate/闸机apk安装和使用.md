@@ -1,7 +1,6 @@
 - [1. 安装和测试闸门](#1-安装和测试闸门)
   - [1.1 安装闸门](#11-安装闸门)
 - [2.闸门测试](#2闸门测试)
-- [3. 异常情况](#3-异常情况)
 
 # 1. 安装和测试闸门
 
@@ -14,36 +13,38 @@
 
    设备密钥 Subkey：38d4c6a6691b46dbacee5f5dc4188952
 
-   Hub地址：：http://192.168.1.7:8080  (具体根据项目由开发提供)
 
    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/1.png" alt="Gateimages" />
 
-3. 点击保存
-4. 页面显示
-    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/2.png" alt="Gateimages" />
+3. 点击保存，重新打开apk
+   
+4. 屏保页显示
+    <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Gate/images/apk/1.png" alt="Gateimages" />
 
-   如果hub未填写，页面右下角会显示红色字体：hub未连接)
-5. 开机若需要自启动，需要在机器里设置
+5.  识别到人脸，提示用户对准摄像头 
+     <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Gate/images/apk/2.png" alt="Gateimages" />
+
+6. 开机若需要自启动，需要在机器里设置
    
 # 2.闸门测试
-1. 扫描正确的二维码
+1. 扫描已录入的人脸
 
-   提示：XXX，欢迎惠顾!
+   提示：
 
-     <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/3.png" alt="Gateimages" />
-
-2. 扫描失效的二维码
-
-   提示：请刷新二维码，再重试！
-
-   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/UnmannedShop/images/Gateimages/4.png" alt="Gateimages" />
-
-3. 出门提示：有会员，成功出店！
+   XXX，欢迎光临 
    
-   进出门会有对应的事件发送
+     刷脸成功  
 
- # 3. 异常情况
+      请进
 
-   情况1：若出现连接事件线后门自动打开，可能是后台进程开的太多
+     <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Gate/images/apk/3.png" alt="Gateimages" />
 
-   解决方案：需要关掉后台所有进程，再重新打开软件
+2. 扫描未录入的人脸
+
+   提示：很抱歉，刷脸未能成功
+
+   用户可扫描二维码进行注册
+
+   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Gate/images/apk/4.png" alt="Gateimages" />
+
+
