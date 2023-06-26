@@ -7,7 +7,7 @@
 支持Windows
 
 # github仓库地址
-
+https://github.com/troncell/H5Pages/blob/main/signature/HowToConfig.md
 
 
 # 使用流程
