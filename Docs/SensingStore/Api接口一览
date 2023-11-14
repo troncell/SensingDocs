@@ -1,1 +1,10 @@
 ### SensingStore的接口介绍
+
+
+1. Identity Service -----------> https://identity.api.troncell.com/ -------------> 
+2. Micro Service --------------> https://s-gw.api.troncell.com/service-name/  -----> admin backend
+-----------product/ads/devicecenter/devicebigdata/...
+                                 https://d-gw.api.troncell.com   ----> smart device
+3. k8s 1.24.3
+4. master, node, --------> 部署手册
+
