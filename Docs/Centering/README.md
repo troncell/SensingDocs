@@ -8,8 +8,10 @@
 
 # github 仓库地址
 
-| 江森：对中后台 | vue3 + vite + ts | https://github.com/troncell/sensinghub_front/tree/centering-data | 2023.6 | 本地 nginx 部署 | 无 |
-| 江森：大屏 | vue3 + vite | https://github.com/troncell/Projects-2023/tree/main/2023/jiangsen/dataScreen | 2023.9 | electron 打包，本地部
+| 名称           | 说明             | 地址                                                                         | 部署署                | 静态资源 |
+| -------------- | ---------------- | ---------------------------------------------------------------------------- | --------------------- | -------- |
+| 江森：对中后台 | vue3 + vite + ts | https://github.com/troncell/sensinghub_front/tree/centering-data             | 本地 nginx 部署       | 无       |
+| 江森：大屏     | vue3 + vite      | https://github.com/troncell/Projects-2023/tree/main/2023/jiangsen/dataScreen | electron 打包，本地部 |
 
 # 使用流程
 
