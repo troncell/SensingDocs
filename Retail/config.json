@@ -797,6 +797,37 @@
                         "type": "multiple"
                     }
                 ]
+            },
+            {
+                "title": "江森对中",
+                "icon": {
+                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+                    "w": "",
+                    "h": ""
+                },
+                "path": "Centering",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "简介",
+                        "url": "README",
+                        "type": "single"
+                    },
+                    {
+                        "id": 2,
+                        "title": "配置说明",
+                        "url": [
+                            {
+                                "name": "对中操作文档"
+                            },
+                            {
+                                "name": "江森后台部署文档"
+                            }
+                        ],
+                        "type": "multiple"
+                    }
+                ]
             }
         ]
     },
