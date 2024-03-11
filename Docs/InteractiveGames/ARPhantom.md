@@ -1,6 +1,10 @@
-# AR魅影设置
-#  AppSetting.xml介绍
-开发提供exe文件包，在文件夹下settings文件夹里有AppSetting.xml文件
+# AR 魅影设置
+
+文件包 NAS 地址：/实施交付/2023 项目交付备份/创思 DEMO/体感游戏 DEMO/AR 魅影
+
+# 1.AppSetting.xml 介绍
+
+开发提供 exe 文件包，在文件夹下 settings 文件夹里有 AppSetting.xml 文件
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -31,3 +35,9 @@
   </WelcomeTexts>
 </Setting>
 ```
+
+## 2.运行游戏
+
+虚幻成像场景，有趣的元素：如星光，气泡，蝴蝶等，并可融入品牌元素，支持单人或多人参与，变换手势还会出现不同的动效
+
+![images](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/UserDocs/%E4%BA%92%E5%8A%A8%E6%B4%BB%E5%8A%A8/images/6.png)

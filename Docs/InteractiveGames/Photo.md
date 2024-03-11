@@ -1,6 +1,10 @@
 # 体感拍照设置
-#  AppSetting.xml介绍
-开发提供KinectShot文件包，在文件夹下settings文件夹里有AppSetting.xml文件
+
+文件包 NAS 地址：/实施交付/2023 项目交付备份/创思 DEMO/体感游戏 DEMO/横屏拍照
+
+# 1.AppSetting.xml 介绍
+
+开发提供 KinectShot 文件包，在文件夹下 settings 文件夹里有 AppSetting.xml 文件
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -118,7 +122,7 @@
         <!-- <KinectRegion Width="1920" Height="1080" ZIndex="10">
           <HandImageSource Path="settings\Images\hand.png" />
           <Controls>
-           
+
 </Controls>
         </KinectRegion>
         <!-- 生成照片页面关闭弹框按钮 -->
@@ -219,7 +223,7 @@
 
 ```
 
-# DeviceKeySetting.xml  介绍
+# 2.DeviceKeySetting.xml 介绍
 
 ```
 
@@ -237,3 +241,10 @@
 </Setting>
 
 ```
+
+## 3.运行游戏
+
+体感拍照：用户挥手可切换头饰，手势自拍或站立到指定位置自拍，微信扫码获得照片
+
+![images](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/UserDocs/%E4%BA%92%E5%8A%A8%E6%B4%BB%E5%8A%A8/images/1.png)
+![images](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/UserDocs/%E4%BA%92%E5%8A%A8%E6%B4%BB%E5%8A%A8/images/2.png)

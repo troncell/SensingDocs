@@ -1,9 +1,10 @@
-
 # 体感答题
 
-#  GameSetting.xml介绍
+文件包 NAS 地址：/实施交付/2023 项目交付备份/创思 DEMO/体感游戏 DEMO/体感答题
 
-开发提供exe文件包，在文件夹下settings文件夹里有GameSetting.xml介绍
+# 1.GameSetting.xml 介绍
+
+开发提供 exe 文件包，在文件夹下 settings 文件夹里有 GameSetting.xml 介绍
 
 ```
 
@@ -34,3 +35,9 @@
 </Game>
 
 ```
+
+## 2.运行游戏
+
+体感答题：通过双手抱拳和双手举过头顶来判断题目的对错
+
+![images](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/UserDocs/%E4%BA%92%E5%8A%A8%E6%B4%BB%E5%8A%A8/images/8.png)
