@@ -51,27 +51,27 @@
 
 1.双击打开文件包里的 KeepCar.exe
 
-![1710137368692](image/ConnectingObjects/1710137368692.png)
+![1710137368692](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/ConnectingObjects/1710137368692.png)
 
 2.若配置文件里没有填写证书密钥则会弹框提示，点击 OK，关闭弹框
 
-![1710137430732](image/ConnectingObjects/1710137430732.png)
+![1710137430732](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/ConnectingObjects/1710137430732.png)
 
 3.进入游戏说明，倒数结束后进入游戏
 
-![1710137471493](image/ConnectingObjects/1710137471493.png)
+![1710137471493](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/ConnectingObjects/1710137471493.png)
 
 4.倒数结束后，开始游戏
 
 多个通道，可以多人一起接物
 
-![1710137577448](image/ConnectingObjects/1710137577448.png)
+![1710137577448](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/ConnectingObjects/1710137577448.png)
 
 5.游戏结束后，显示各通道的得分
 
 倒计时结束后，退出游戏
 
-![1710137661498](image/ConnectingObjects/1710137661498.png)
+![1710137661498](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/ConnectingObjects/1710137661498.png)
 
 ### 3.2 单人接物
 

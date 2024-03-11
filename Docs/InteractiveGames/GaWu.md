@@ -40,19 +40,19 @@
 
 1.双击打开文件包里的 MultiGaWu.exe
 
-![1710138558272](image/GaWu/1710138558272.png) 2.若配置文件里没有填写证书密钥则会弹框提示，点击 OK，关闭弹框
+![1710138558272](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/GaWu/1710138558272.png) 2.若配置文件里没有填写证书密钥则会弹框提示，点击 OK，关闭弹框
 
-![1710137430732](image/ConnectingObjects/1710137430732.png)
+![1710137430732](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/ConnectingObjects/1710137430732.png)
 
 3.进入游戏说明，倒数结束后进入游戏
-![1710138676004](image/GaWu/1710138676004.png)
+![1710138676004](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/GaWu/1710138676004.png)
 
 4.开始游戏
 
 人物进入界面，挥手触发游戏。根据飘出的动作指示完成动作，多种动作随机出现
 
-![1710138882208](image/GaWu/1710138882208.png)
+![1710138882208](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/GaWu/1710138882208.png)
 
-5. 游戏结束
+1. 游戏结束
 
-![1710138852496](image/GaWu/1710138852496.png)
+![1710138852496](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/GaWu/1710138852496.png)

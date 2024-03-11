@@ -43,30 +43,30 @@
 
 开发提供的文件包下，双击 Fruit.exe，生成证书密钥
 
-![1710125822122](image/Fruit/1710125822122.png)
+![1710125822122](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/Fruit/1710125822122.png)
 
 ## 3.运行游戏
 
 1.双击打开文件包里的 Fruit.exe
 
-![1710128768062](image/Fruit/1710128768062.png)
+![1710128768062](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/Fruit/1710128768062.png)
 
 2.若配置文件里没有填写证书密钥则会弹框提示，点击 OK，关闭弹框
 
-![1710128915878](image/Fruit/1710128915878.png)
+![1710128915878](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/Fruit/1710128915878.png)
 
 3.进入游戏说明，倒数结束后进入游戏
 
-![1710128993943](image/Fruit/1710128993943.png)
+![1710128993943](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/Fruit/1710128993943.png)
 
 4.倒数结束后，开始游戏
 
 多个通道，可以多人一起切水果，切到水果加分，切到炸弹减分
 
-![1710129122584](image/Fruit/1710129122584.png)
+![1710129122584](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/Fruit/1710129122584.png)
 
 5.游戏结束后，显示各通道的得分
 
 倒计时结束后，回到首页继续轮循
 
-![1710129266346](image/Fruit/1710129266346.png)
+![1710129266346](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/Fruit/1710129266346.png)

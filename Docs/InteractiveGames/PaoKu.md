@@ -101,20 +101,20 @@
 
 1.双击打开文件包里的 Kinect Four Race.exe
 
-![1710139707304](image/PaoKu/1710139707304.png)
+![1710139707304](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/PaoKu/1710139707304.png)
 
 2.进入游戏说明，倒数结束后进入游戏
 
-![1710139744891](image/PaoKu/1710139744891.png)
+![1710139744891](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/PaoKu/1710139744891.png)
 
 3.开始游戏
 
 多个通道，可以多人一起奔跑
 
-![1710139759196](image/PaoKu/1710139759196.png)
+![1710139759196](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/PaoKu/1710139759196.png)
 
 4.游戏结束后，显示各通道的得分
 
 倒计时结束后，退出游戏
 
-![1710139825859](image/PaoKu/1710139825859.png)
+![1710139825859](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/InteractiveGames/image/PaoKu/1710139825859.png)
