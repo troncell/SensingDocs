@@ -25,7 +25,7 @@
 
 7.体感切水果：多个通道，可以多人一起切水果，切到水果加分，切到炸弹减分
 
-[体感答题介绍](https://github.com/troncell/SensingDocs/blob/main/Docs/InteractiveGames/Fruit.md)
+[体感切水果介绍](https://github.com/troncell/SensingDocs/blob/main/Docs/InteractiveGames/Fruit.md)
 
 # 互动游戏参考项目地址
 
