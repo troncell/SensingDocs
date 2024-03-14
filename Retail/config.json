@@ -1,865 +1,876 @@
 {
-    "retail": {
-        "name": "零售",
-        "data": [
-            {
-                "title": "派样机",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Sample",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "开发指南",
-                        "url": "开发文档",
-                        "type": "single"
-                    },
-                    {
-                        "id": 3,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "答题派样页面配置"
-                            },
-                            {
-                                "name": "后台配置"
-                            },
-                            {
-                                "name": "自助售卖"
-                            },
-                            {
-                                "name": "设备安装"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 4,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 5,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=189646710&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "电子价签",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "ElectronicPriceTag",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": "电子价签",
-                        "type": "single"
-                    },
-                    {
-                        "id": 3,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200581112&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "无人店",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "UnmannedShop",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "后台操作"
-                            },
-                            {
-                                "name": "货架校准"
-                            },
-                            {
-                                "name": "安装货架"
-                            },
-                            {
-                                "name": "闸机apk安装"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200581729&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "活动",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Activity",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "年会活动"
-                            },
-                            {
-                                "name": "体感游戏后台配置"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244%2C102303869&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "云货架",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Product",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "云货架配置"
-                            },
-                            {
-                                "name": "商品图自动化生成"
-                            },
-                            {
-                                "name": "后台操作"
-                            },
-                            {
-                                "name": "应用安装"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "IOT感应互动",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "IOT",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "后台文档"
-                            },
-                            {
-                                "name": "APK操作文档"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200582325&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "售卖小程序",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "MiniProcedure",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "售卖小程序"
-                            },
-                            {
-                                "name": "微信支付开通文档"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=103447546&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=progressing&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "自助收银",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Cashier",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "后台文档"
-                            },
-                            {
-                                "name": "APK操作文档"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200583706&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            }
-        ]
-    },
-    "showroom": {
-        "name": "展厅",
-        "data": [
-            {
-                "title": "信息发布",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "AppPod",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "信息发布"
-                            },
-                            {
-                                "name": "AppPod安装"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=112847403&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "播控系统",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "bokong",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "环境安装"
-                            },
-                            {
-                                "name": "后台操作"
-                            },
-                            {
-                                "name": "播控操作"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200584214&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "客流系统",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "PassengerFlow",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "用户行为分析系统配置"
-                            },
-                            {
-                                "name": "Camera修改"
-                            }
-                        ],
-                        "type": "multiple"
-                    }
-                ]
-            },
-            {
-                "title": "互动软件",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "InteractiveGames",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "ARPhantom"
-                            },
-                            {
-                                "name": "GameSetting"
-                            },
-                            {
-                                "name": "Photo"
-                            },
-                            {
-                                "name": "Question"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=191559639&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "云货架",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Product",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "云货架配置"
-                            },
-                            {
-                                "name": "商品图自动化生成"
-                            },
-                            {
-                                "name": "后台操作"
-                            },
-                            {
-                                "name": "应用安装"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    },
-                    {
-                        "id": 4,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "IOT感应互动",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "IOT",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "后台文档"
-                            },
-                            {
-                                "name": "APK操作文档"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 5,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200582325&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "人脸闸机系统",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Gate",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "后台文档"
-                            },
-                            {
-                                "name": "Register"
-                            },
-                            {
-                                "name": "闸机apk安装和使用"
-                            }
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "机器人",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Robot",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "电子货屏产品说明"
-                            },
-                            {
-                                "name": "品牌墙"
-                            },
-                            {
-                                "name": "信息发布"
-                            }
-                        ],
-                        "type": "multiple"
-                    }
-                ]
-            },
-            {
-                "title": "展示小程序",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "MiniProcedure",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": "展示小程序",
-                        "type": "single"
-                    },
-                    {
-                        "id": 3,
-                        "title": "问题&进度",
-                        "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=103447546&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=progressing&target_project=",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "雷达",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Radar",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": "雷达系统安装",
-                        "type": "single"
-                    }
-                ]
-            },
-            {
-                "title": "魔镜",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Mirror",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "后台文档"
-                            },
-                            {
-                                "name": "apk安装"
-                            }
-                           
-                        ],
-                        "type": "multiple"
-                    },
-                    {
-                        "id": 3,
-                        "title": "版本下载",
-                        "url": "Version",
-                        "type": "single"
-                    }
-                ]
-            }
-        ]
-    },
-    "factory": {
-        "name": "工厂",
-        "data": [
-            {
-                "title": "SAT超声波",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "SAT",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "硬币扫描"
-                            },
-                            {
-                                "name": "Scan"
-                            },
-                            {
-                                "name": "Analysis"
-                            }
-                        ],
-                        "type": "multiple"
-                    }
-                ]
-            },
-            {
-                "title": "江森对中",
-                "icon": {
-                    "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-                    "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
-                    "w": "",
-                    "h": ""
-                },
-                "path": "Centering",
-                "pages": [
-                    {
-                        "id": 1,
-                        "title": "简介",
-                        "url": "README",
-                        "type": "single"
-                    },
-                    {
-                        "id": 2,
-                        "title": "配置说明",
-                        "url": [
-                            {
-                                "name": "对中操作文档"
-                            },
-                            {
-                                "name": "江森后台部署文档"
-                            }
-                        ],
-                        "type": "multiple"
-                    }
-                ]
-            }
-        ]
-    },
-    "downloadCenter": {
-        "name": "下载中心",
-        "url": "https://tailwindcss.com/docs/dark-mode"
-    },
-    "advertisement": [
-        {
-            "title": "发现新版本",
-            "version": "v1.0.1",
-            "img": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/advertisement/advertisementBg.png",
-            "subTitle": "AppPod新版本更新",
-            "info": [
-                {
-                    "detail": [
-                        {
-                            "name": "1.添加美斯特蓝牙设备"
-                        },
-                        {
-                            "name": "2.添加英格智能灯光设备"
-                        },
-                        {
-                            "name": "3.修改cash缓存策略"
-                        }
-                    ]
-                }
+  "retail": {
+    "name": "零售",
+    "data": [
+      {
+        "title": "派样机",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Sample",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "开发指南",
+            "url": "开发文档",
+            "type": "single"
+          },
+          {
+            "id": 3,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "答题派样页面配置"
+              },
+              {
+                "name": "后台配置"
+              },
+              {
+                "name": "自助售卖"
+              },
+              {
+                "name": "设备安装"
+              }
             ],
-            "goDownload": {
-                "isShow": true,
-                "path": "/site/showroom/AppPod?optionId=3"
-            }
-        }
+            "type": "multiple"
+          },
+          {
+            "id": 4,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 5,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=189646710&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "电子价签",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "ElectronicPriceTag",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": "电子价签",
+            "type": "single"
+          },
+          {
+            "id": 3,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200581112&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "无人店",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "UnmannedShop",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "后台操作"
+              },
+              {
+                "name": "货架校准"
+              },
+              {
+                "name": "安装货架"
+              },
+              {
+                "name": "闸机apk安装"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 4,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200581729&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "活动",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Activity",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "年会活动"
+              },
+              {
+                "name": "体感游戏后台配置"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244%2C102303869&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "云货架",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Product",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "云货架配置"
+              },
+              {
+                "name": "商品图自动化生成"
+              },
+              {
+                "name": "后台操作"
+              },
+              {
+                "name": "应用安装"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 4,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "IOT感应互动",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "IOT",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "后台文档"
+              },
+              {
+                "name": "APK操作文档"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200582325&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "售卖小程序",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "MiniProcedure",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "售卖小程序"
+              },
+              {
+                "name": "微信支付开通文档"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=103447546&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=progressing&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "自助收银",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Cashier",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "后台文档"
+              },
+              {
+                "name": "APK操作文档"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 4,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200583706&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      }
     ]
+  },
+  "showroom": {
+    "name": "展厅",
+    "data": [
+      {
+        "title": "信息发布",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "AppPod",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "信息发布"
+              },
+              {
+                "name": "AppPod安装"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 4,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=112847403&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "播控系统",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "bokong",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "环境安装"
+              },
+              {
+                "name": "后台操作"
+              },
+              {
+                "name": "播控操作"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 4,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200584214&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "客流系统",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "PassengerFlow",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "用户行为分析系统配置"
+              },
+              {
+                "name": "Camera修改"
+              }
+            ],
+            "type": "multiple"
+          }
+        ]
+      },
+      {
+        "title": "互动软件",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "InteractiveGames",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "ARPhantom"
+              },
+              {
+                "name": "Fruit"
+              },
+              {
+                "name": "GaWu"
+              },
+              {
+                "name": "JieWu"
+              },
+              {
+                "name": "PaoKu"
+              },
+              {
+                "name": "Photo"
+              },
+              {
+                "name": "Question"
+              },
+              {
+                "name": "H5Game"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=191559639&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "云货架",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Product",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "云货架配置"
+              },
+              {
+                "name": "商品图自动化生成"
+              },
+              {
+                "name": "后台操作"
+              },
+              {
+                "name": "应用安装"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          },
+          {
+            "id": 4,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=107586244&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "IOT感应互动",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "IOT",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "后台文档"
+              },
+              {
+                "name": "APK操作文档"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 5,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=200582325&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "人脸闸机系统",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Gate",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "后台文档"
+              },
+              {
+                "name": "Register"
+              },
+              {
+                "name": "闸机apk安装和使用"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "机器人",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Robot",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "电子货屏产品说明"
+              },
+              {
+                "name": "品牌墙"
+              },
+              {
+                "name": "信息发布"
+              }
+            ],
+            "type": "multiple"
+          }
+        ]
+      },
+      {
+        "title": "展示小程序",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "MiniProcedure",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": "展示小程序",
+            "type": "single"
+          },
+          {
+            "id": 3,
+            "title": "问题&进度",
+            "url": "https://gitee.com/zhangting1027/issue/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=103447546&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=zhangting1027%2Fissue&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=progressing&target_project=",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "雷达",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Radar",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": "雷达系统安装",
+            "type": "single"
+          }
+        ]
+      },
+      {
+        "title": "魔镜",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Mirror",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "后台文档"
+              },
+              {
+                "name": "apk安装"
+              }
+            ],
+            "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
+          }
+        ]
+      }
+    ]
+  },
+  "factory": {
+    "name": "工厂",
+    "data": [
+      {
+        "title": "SAT超声波",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "SAT",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "硬币扫描"
+              },
+              {
+                "name": "Scan"
+              },
+              {
+                "name": "Analysis"
+              }
+            ],
+            "type": "multiple"
+          }
+        ]
+      },
+      {
+        "title": "江森对中",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "Centering",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "对中操作文档"
+              },
+              {
+                "name": "江森后台部署文档"
+              }
+            ],
+            "type": "multiple"
+          }
+        ]
+      }
+    ]
+  },
+  "downloadCenter": {
+    "name": "下载中心",
+    "url": "https://tailwindcss.com/docs/dark-mode"
+  },
+  "advertisement": [
+    {
+      "title": "发现新版本",
+      "version": "v1.0.1",
+      "img": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/advertisement/advertisementBg.png",
+      "subTitle": "AppPod新版本更新",
+      "info": [
+        {
+          "detail": [
+            {
+              "name": "1.添加美斯特蓝牙设备"
+            },
+            {
+              "name": "2.添加英格智能灯光设备"
+            },
+            {
+              "name": "3.修改cash缓存策略"
+            }
+          ]
+        }
+      ],
+      "goDownload": {
+        "isShow": true,
+        "path": "/site/showroom/AppPod?optionId=3"
+      }
+    }
+  ]
 }
