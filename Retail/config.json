@@ -118,6 +118,9 @@
               },
               {
                 "name": "闸机apk安装"
+              },
+              {
+                "name": "支付分申请"
               }
             ],
             "type": "multiple"
