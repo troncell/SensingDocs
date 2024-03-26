@@ -31,7 +31,7 @@
 - 输入云平台地址：https://d-gw.api.troncell.com
 - 输入 sensinghub 地址：http://192.168.1.7:8080（例）
 - 输入设备密钥
-- 点击检查设备密钥，可以查看设备信息(租户-店铺-设备名-设备类型-版本号))
+- 点击检查设备密钥，可以查看设备信息(租户-店铺-设备名-设备类型-版本号)
 - 点击注册，进入应用选择页面
 
 <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711431618825.png" alt="Deviceimages" />
