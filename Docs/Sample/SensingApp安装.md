@@ -46,11 +46,11 @@
 
 1. 调试机器货道：串口设备和波特率设置
 
-   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711432134134.png" alt="Deviceimages" />
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711432134134.png" alt="Deviceimages" />
 
-   （1）下拉选择互动软件
+（1）下拉选择互动软件
 
-   （2）串口设备和波特率选择（需要根据不同的贩卖机进行更改）：
+（2）串口设备和波特率选择（需要根据不同的贩卖机进行更改）：
 
 | 设备           | vectorFolderName | 波特率 | 串口设备     |
 | -------------- | ---------------- | ------ | ------------ |
