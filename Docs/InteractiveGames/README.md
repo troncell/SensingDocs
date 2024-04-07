@@ -4,7 +4,7 @@
 
 # 互动游戏
 
-1.体感拍照：用户挥手可切换头饰，手势自拍或站立到指定位置自拍，微信扫码获得照片 H5 页面  
+1.体感拍照：用户挥手可切换头饰，手势自拍或站立到指定位置自拍，微信扫码获得照片 H5 页面
 [体感拍照介绍](https://github.com/troncell/SensingDocs/blob/main/Docs/InteractiveGames/Photo.md)
 
 2.体感跑酷：通过身体左右移动，碰撞到礼物或者炸弹。得到分数，获取积分或奖品。
@@ -26,6 +26,10 @@
 7.体感切水果：多个通道，可以多人一起切水果，切到水果加分，切到炸弹减分
 
 [体感切水果介绍](https://github.com/troncell/SensingDocs/blob/main/Docs/InteractiveGames/Fruit.md)
+
+8.体感游戏后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置活动内容相关信息。
+
+后台配置说明请参考：[体感游戏后台配置](https://github.com/troncell/SensingDocs/blob/main/Docs/Activity/%E4%BD%93%E6%84%9F%E6%B8%B8%E6%88%8F%E5%90%8E%E5%8F%B0%E9%85%8D%E7%BD%AE.md)
 
 # 互动游戏参考项目地址
 
