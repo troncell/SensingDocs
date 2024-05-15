@@ -72,7 +72,7 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 
 ## 1.6 参数设置页面
 
-<img style="width:200px" class="right" src="image/APK操作文档/1712043821006.png" alt="Deviceimages" />
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/image/APK%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3/1712043821006.png" alt="Deviceimages" />
 
 | 参数         | 描述                |
 | ------------ | ------------------- |
