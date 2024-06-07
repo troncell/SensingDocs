@@ -124,6 +124,9 @@
               },
               {
                 "name": "支付分申请"
+              },
+              {
+                "name": "StoreHub"
               }
             ],
             "type": "multiple"
