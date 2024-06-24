@@ -4,7 +4,7 @@
 
 # github 仓库地址：
 
-年会活动地址：https://github.com/wulixu/h5games/tree/develop
+年会活动地址：https://github.com/wulixu/h5games/tree/develop/luckdrawH5
 
 # 使用流程
 

@@ -166,6 +166,9 @@
             "title": "配置说明",
             "url": [
               {
+                "name": "开发文档"
+              },
+              {
                 "name": "年会活动"
               }
             ],
@@ -286,7 +289,16 @@
             "title": "配置说明",
             "url": [
               {
-                "name": "售卖小程序"
+                "name": "售卖小程序后台配置"
+              },
+              {
+                "name": "展示小程序后台配置"
+              },
+              {
+                "name": "小程序申请文档"
+              },
+              {
+                "name": "支付分申请"
               },
               {
                 "name": "微信支付开通文档"
@@ -374,7 +386,7 @@
                 "name": "信息发布"
               },
               {
-                "name": "AppPod安装"
+                "name": "SensingAPP安装"
               }
             ],
             "type": "multiple"
@@ -812,6 +824,9 @@
               },
               {
                 "name": "Analysis"
+              },
+              {
+                "name": "配置文件"
               }
             ],
             "type": "multiple"
@@ -819,7 +834,7 @@
         ]
       },
       {
-        "title": "江森对中",
+        "title": "轴对中",
         "icon": {
           "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
           "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
@@ -842,7 +857,35 @@
                 "name": "对中操作文档"
               },
               {
-                "name": "江森后台部署文档"
+                "name": "后台部署文档"
+              }
+            ],
+            "type": "multiple"
+          }
+        ]
+      },
+      {
+        "title": "3D绘测",
+        "icon": {
+          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
+          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "w": "",
+          "h": ""
+        },
+        "path": "3DMapping",
+        "pages": [
+          {
+            "id": 1,
+            "title": "简介",
+            "url": "README",
+            "type": "single"
+          },
+          {
+            "id": 2,
+            "title": "配置说明",
+            "url": [
+              {
+                "name": "操作文档"
               }
             ],
             "type": "multiple"
