@@ -885,10 +885,16 @@
             "title": "配置说明",
             "url": [
               {
-                "name": "操作文档"
+                "name": "环境安装"
               }
             ],
             "type": "multiple"
+          },
+          {
+            "id": 3,
+            "title": "版本下载",
+            "url": "Version",
+            "type": "single"
           }
         ]
       }
