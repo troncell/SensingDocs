@@ -433,6 +433,9 @@
               },
               {
                 "name": "播控操作"
+              },
+              {
+                "name": "StoreHub部署文档"
               }
             ],
             "type": "multiple"
