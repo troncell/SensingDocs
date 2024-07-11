@@ -26,7 +26,7 @@
 
 # github 仓库地址：
 
-Windows 仓库：
+Windows 仓库：https://github.com/wulixu/AppPod.git
 
 Android 仓库：https://github.com/troncell/AppPodAndroid
 

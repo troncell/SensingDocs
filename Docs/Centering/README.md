@@ -11,11 +11,11 @@
 | 名称           | 说明             | 地址                                                                         | 部署署                | 静态资源 |
 | -------------- | ---------------- | ---------------------------------------------------------------------------- | --------------------- | -------- |
 | 江森：对中后台 | vue3 + vite + ts | https://github.com/troncell/sensinghub_front/tree/centering-data             | 本地 nginx 部署       | 无       |
-| 江森：大屏     | vue3 + vite      | https://github.com/troncell/Projects-2023/tree/main/2023/jiangsen/dataScreen | electron 打包，本地部 |
+| 江森：大屏     | vue3 + vite      | https://github.com/troncell/Projects-2023/tree/main/2023/jiangsen/dataScreen | electron 打包，本地部 |          |
 
 # 使用流程
 
-1.环境部署
+1.后台环境部署
 
 说明请参考：[江森后台部署文档](https://github.com/troncell/SensingDocs/blob/main/Docs/Centering/%E6%B1%9F%E6%A3%AE%E5%90%8E%E5%8F%B0%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3.md)
 

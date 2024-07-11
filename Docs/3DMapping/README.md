@@ -21,3 +21,7 @@
 2.根据点云文件，计算直段实际长度
 
 ![图片](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/3DMapping/images/20.png)
+
+## 3.软件安装：转换模型文件格式
+
+环境安装说明请参考：[软件环境安装](https://github.com/troncell/SensingDocs/blob/main/Docs/3DMapping/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.md)

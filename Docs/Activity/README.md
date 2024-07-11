@@ -4,7 +4,9 @@
 
 # github 仓库地址：
 
-年会活动地址：https://github.com/wulixu/h5games/tree/develop/luckdrawH5
+年会活动 H5 地址：https://github.com/wulixu/h5games/tree/develop/luckdrawH5
+
+年会活动 EXE 地址：https://github.com/wulixu/SensingGame.luck.git
 
 # 使用流程
 

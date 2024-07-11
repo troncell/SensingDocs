@@ -8,7 +8,9 @@
 
 1.基站搭建 2.汉朔后台
 
-# github 仓库地址：
+# 仓库地址：
+
+后台仓库地址：https://github.com/troncell/SensingSite/tree/develop
 
 # 使用流程
 

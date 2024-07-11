@@ -2,19 +2,21 @@
 
 采用 SensingHub，SensingHub 是一个本地化的多功能的 Web 服务，主要负责同一场所下的所有智能设备的基础设置管理、设备下的多媒体资源管理、设备中应用软件中实时事件的分发以及对应的数据收集.
 
+**SensingHub 介绍**
+
+![environment1](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/bokong/images/backstage/16.png)
+
 # github 仓库地址
 
-SensingHub 仓库地址：https://github.com/wulixu/SensingHub
+1.SensingHub 仓库地址：https://github.com/wulixu/SensingHub
 
-大屏 EXE 代码地址：https://github.com/wulixu/BoKong
+2.大屏 EXE 代码地址：https://github.com/wulixu/BoKong
 
-H5 地址：https://github.com/wulixu/h5games/tree/develop
+3.H5 地址：https://github.com/wulixu/h5games/tree/develop
 
 ![1720491411890](image/README/1720491411890.png)
 
-前端仓库：https://github.com/troncell/sensinghub_front/tree/storehub
-
-![environment1](https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/bokong/images/backstage/16.png)
+4.前端仓库：https://github.com/troncell/sensinghub_front/tree/storehub
 
 # 使用流程
 
