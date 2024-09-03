@@ -24,6 +24,8 @@ H5 仓库地址：https://github.com/troncell/Projects-2023/tree/main/2023/nanji
 
 Android 仓库：https://github.com/troncell/AppPodAndroid
 
+流程图和接口地址：https://js.design/f/lmpEkC?p=_7vKEMAecP&mode=design 邀请您查看「自助收银」，点击链接开启协作
+
 # 使用流程
 
 1.后台文档：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置相关信息。
