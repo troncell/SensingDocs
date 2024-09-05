@@ -129,5 +129,6 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711432134134.png" alt="Deviceimages" />
 
 4.点击回首页进入首页
-![image](https://github.com/user-attachments/assets/0f6c3d94-59be-4122-af65-874538319d91)
+
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/image/APK%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3/1.png" alt="Deviceimages" />
 
