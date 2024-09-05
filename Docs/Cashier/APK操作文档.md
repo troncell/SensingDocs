@@ -91,7 +91,7 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 
 ## 2.1 apk 安装
 
-# 一、 机器上安装 apk 
+### 一、 机器上安装 apk 
 
 1.采用派样机 Sample 外壳，安装apk
 
@@ -107,7 +107,18 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 1. 将 apk 放入 U 盘，直接插在机器上
 2. 识别 U 盘后，文件管理里打开 U 盘，双击 apk 进行安装
 
-2.应用选择
+### 2.2 登录设备密钥
+
+1. 安装完成后，打开 SensingApp
+2. 输入云平台地址：https://d-gw.api.troncell.com
+3. 输入 sensinghub 地址：http://192.168.1.7:8080（例）
+4. 输入设备密钥
+5. 点击检查设备密钥，可以查看设备信息(租户-店铺-设备名-设备类型-版本号))
+6. 点击注册，进入应用选择页面
+
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/AppPod/image/SensingApp%E5%AE%89%E8%A3%85/1711420793904.png" alt="Deviceimages" />
+
+### 2.3应用选择
 
 可以选择对应的应用场景，选择自助派样
 
@@ -117,4 +128,6 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 
 <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711432134134.png" alt="Deviceimages" />
 
-4.点击回首页进入首页页面
+4.点击回首页进入首页
+![image](https://github.com/user-attachments/assets/0f6c3d94-59be-4122-af65-874538319d91)
+
