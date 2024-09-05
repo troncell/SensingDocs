@@ -91,9 +91,9 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 
 ## 2.1 apk 安装
 
-# 一、 机器上安装 apk 派样机
+# 一、 机器上安装 apk 
 
-采用派样机 Sample 外壳
+1.采用派样机 Sample 外壳，安装apk
 
 方案一：adb 命令安装
 
@@ -107,34 +107,14 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 1. 将 apk 放入 U 盘，直接插在机器上
 2. 识别 U 盘后，文件管理里打开 U 盘，双击 apk 进行安装
 
-# 二、打开 apk 进行设置
+2.应用选择
 
-1. 调试机器货道：串口设备和波特率设置
+可以选择对应的应用场景，选择自助派样
 
-   （1）单击页面右下角图标
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711431897024.png" alt="Deviceimages" />
 
-   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/images/Deviceimages/1.png" alt="H5images" />
+3.游戏选择，自动获取自助收银H5地址（需要在后台配好）
 
-   （2）串口设备和波特率选择（需要根据不同的贩卖机进行更改）：
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Sample/image/SensingApp%E5%AE%89%E8%A3%85/1711432134134.png" alt="Deviceimages" />
 
-| 设备           | vectorFolderName | 波特率 | 串口设备     |
-| -------------- | ---------------- | ------ | ------------ |
-| 九方汇（RFID） | jiufanghui       | 57600  | dev/ttyUSER6 |
-
-<img style="width:400px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/images/6.jpg" alt="H5images" />
-
-2. 秘钥和链接设置
-
-   步骤：
-
-   （1）输入服务器地址：https://d-gw.api.troncell.com
-
-   （2）输入设备密钥：后台设备 subkey
-
-   （3）点击检查设备秘钥后，自动选择互动软件（即设备下活动里的游戏应用），回主页下方的灰色文字可进行核对信息是否正确。文字内容是：对应的设备名称、店铺名称和软件版本号。
-
-   （4）选择对应贩卖机,目前自助收银接的是九方汇，选择九方汇，点击回主页
-
-   <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/images/7.jpg" alt="H5images" />
-
-   (5)显示收银屏保页
+4.点击回首页进入首页页面
