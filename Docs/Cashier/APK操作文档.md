@@ -132,3 +132,84 @@ apk 地址：\\192.168.3.8\产品发布\Release\Cashier
 
 <img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/image/APK%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3/1.png" alt="Deviceimages" />
 
+# 3.H5配置项
+部署服务器：139.196.240.230，找到H5得自助收银文件夹
+
+以上海技工为例，地址：D:\wxActivity\other\shanghaijigong_cashier，配置文件在shanghaijigong_cashier下config里的appconfig.json
+
+<img style="width:200px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/Cashier/image/APK%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3/%E5%9B%BE%E7%89%871.png" alt="Deviceimages" />
+
+可在appconfig.json里修改配置
+
+```
+{
+//租户id
+  "tenantId": 8298,
+//店铺id
+  "storeId": 27788,
+//设备id
+  "deviceId": 85796,
+//会员id
+  "memberId": 1175796,
+//店铺编号
+  "storeOuterId": "10001",
+//设备密钥
+  "subkey": "452a089783174000a6e16e8e33f81487",
+//游戏密钥
+  "securityKey": "b7b9367310e14e119736c0f07affd930",
+//介绍页倒计时
+  "introDuration": 40,
+//扫码结算商品倒计时
+  "shoppingCarDuration": 180,
+//是否需要登录
+  "showLoginDio": true,
+//手机号登录
+  "loginByPhone": true,
+//人脸登录
+  "loginByFace": true,
+//扫码登录
+  "loginByCode": true,
+//模拟支付
+  "testPay": false,
+//微信支付
+  "weChatPay": true,
+//支付宝支付
+  "aliPay": true,
+
+//打印机信息修改
+  "brand": "创思感知",
+  "store": "店铺1",
+  "storeAddress": "无锡",
+  "storePhone": "18755245655",
+  "cashier": "test",
+  "machineNo": "000012",
+  "receiptNo": "156465",
+
+//可以直接在文件加里替换图片，图片名称不能修改
+  "首页背景图": "logo.png",
+  "首页图片组件1": "tip-1.png",
+  "首页图片组件2": "tip-2.png",
+  "实例页面背景图": "intro.png",
+  "实例页面图片组件1": "el-2-1.png",
+  "实例页面图片组件2": "el-2-2.png",
+  "实例页面图片组件3": "el-2-3.png",
+  "实例页面商品图片": "bottle.png",
+  "关闭按钮": "cancel.png",
+  "收银页面背景图": "bg.png",
+  "收银页面顶部文章提醒1": "empty-text.png",
+  "收银页面顶部文章提醒2": "valid-count-text.png",
+  "收银页面购物车logo": "empty-icon.png",
+  "收银页面顶部logo": "decorate-text.png",
+  "收银页面输入条形码": "barcode-trigger.png",
+  "条形码": "demonstration.png",
+  "条形码删除按钮": "backspace.png",
+  "收银页面编辑按钮": "deit.png",
+  "收银页面删除按钮": "delete.png",
+  "会员登陆logo": "huiyuan.png",
+  "直接结算logo": "qianbao.png",
+  "支付宝图标": "aliPay.png",
+  "微信图标": "weChatPay.png",
+  "微信支付框图标": "wxpay.png",
+  "支付成功图片": "success.png"
+}
+```
