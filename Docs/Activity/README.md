@@ -10,6 +10,8 @@
 
 流程介绍地址：https://js.design/f/X9F0FL?p=ICFDWISfqU&mode=design 邀请您查看「年会活动」，点击链接开启协作
 
+接口地址：https://apifox.com/apidoc/shared-7b6278b4-392b-4576-bb28-36775d506d24
+
 # 使用流程
 
 1.年会活动后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置活动内容相关信息。
