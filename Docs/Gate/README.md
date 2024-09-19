@@ -12,6 +12,8 @@ github 仓库：https://github.com/troncell/AppPodAndroid（APP融合后的地�
 
 原独立仓库 : https://github.com/troncell/SensingFaceGate.git
 
+apk流程介绍地址：https://js.design/f/kFZdYb?p=gwi023kBRB&mode=design 邀请您查看「智能APP」，点击链接开启协作
+
 # 使用流程
 
 1.后台文档：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置商品相关信息，包含模块：设备、活动等。
