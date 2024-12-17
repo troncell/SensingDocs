@@ -160,6 +160,25 @@ docker run -d   --name rabbitmq-container   -p 1883:1883   -p 8883:8883   -p 567
 
 ### 4.部署 storehub
 
+依次运行下方命令：
+
+cd /opt/
+
+mkdir storehub
+
+cd storehub
+
+mkdir backend
+
+mkdir front
+
+查看是否创建成功：
+
+![3885fc48cdf2722e5f41d548249a175](https://github.com/user-attachments/assets/8898e853-92ba-4b08-bd4e-5183fed1b940)
+
+![454cb4ac5b8738ae03471488e352936](https://github.com/user-attachments/assets/e4d1c013-4865-4a1b-b284-29f88d6a4d72)
+
+
 1.问开发要 publish 文件 将文件拷贝到/opt/storehub/backend/publish 目录下
 
 2.安装 filezilla 软件
