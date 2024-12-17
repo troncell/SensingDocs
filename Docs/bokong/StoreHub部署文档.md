@@ -149,7 +149,7 @@ exit;
 ### 3. 部署 rabbitmq
 
 ```shell
-# 登陆到公司的阿里云,需要输入账号密码
+# 登陆到公司的阿里云,需要输入账号密码：1qaz@WSX
 docker login --username=qule@1120777826858507 registry.cn-shanghai.aliyuncs.com
 # 运行rabbitmq
 
