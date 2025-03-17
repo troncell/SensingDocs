@@ -11,6 +11,12 @@
   Sample：https://github.com/troncell/AppPodAndroid/
   
   前端地址：https://github.com/troncell/H5Pages/tree/main/sampling
+
+  页面流程图：https://js.design/f/kFZdYb?p=R5lA5zilhQ&mode=design&linkelement=11-18
+  ![派样机](https://github.com/user-attachments/assets/af56fd73-967b-48e7-83e3-91506612074c)
+
+
+  接口地址：https://apifox.com/apidoc/shared-35aa1ca4-9a75-4507-83bd-7a6743283ee9
 # 使用流程
 1. 后台配置：进入[ai.SensingStore.com](https://ai.sensingstore.com/)后台，登录租户，配置派样机活动相关信息，包含模块：设备、线上店铺（微商城）、答题、活动、权益等。
 
