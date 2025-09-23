@@ -4,6 +4,14 @@
 
 <img style="width:400px" class="right" src="https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Docs/ElectronicPriceTag/images/Electronic/30.jpg" alt="images" />
 
+# 电子价签查看编码
+1.手机扫描电子价签右侧的条码
+<img width="442" height="185" alt="image" src="https://github.com/user-attachments/assets/6cc788b9-9f5f-4981-a521-6641715459f1" />
+
+2.扫描出来的数字取后10位数转换成16进制
+
+<img width="672" height="465" alt="image" src="https://github.com/user-attachments/assets/7d0d460e-ce5f-4808-82e7-8394c0d910ba" />
+
 # 使用环境
 
 1.基站搭建 2.汉朔后台
