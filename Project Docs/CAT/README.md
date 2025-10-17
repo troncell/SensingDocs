@@ -8,9 +8,9 @@
 
 <img style="width:200px;height:400px" src="./image/8.png" alt="输入图片说明" />
 
-详细安装说明请参考：[防错 APK 文档介绍](https://github.com/troncell/SensingDocs/blob/main/Project%20Docs/%E6%98%93%E5%B8%86%E7%89%B9/%E9%98%B2%E9%94%99apk%E6%96%87%E6%A1%A3%E4%BB%8B%E7%BB%8D.md)
-
 ### 1.2apk 应用
+
+详细 APK 说明请参考：[防错 APK 文档介绍](https://github.com/troncell/SensingDocs/blob/main/Project%20Docs/%E6%98%93%E5%B8%86%E7%89%B9/%E9%98%B2%E9%94%99apk%E6%96%87%E6%A1%A3%E4%BB%8B%E7%BB%8D.md)
 
 | 环境    | 版本号 | 版本发布时间 | 修改内容 | NAS 地址                                                            | 设备       |
 | ------- | ------ | ------------ | -------- | ------------------------------------------------------------------- | ---------- |
@@ -24,9 +24,9 @@
 
 <img style="width:200px;height:400px" src="./image/3.png" alt="输入图片说明" />
 
-详细安装说明请参考：[自带出纸的扫码枪 APK 文档](https://github.com/troncell/SensingDocs/blob/main/Project%20Docs/%E6%98%93%E5%B8%86%E7%89%B9/%E8%87%AA%E5%B8%A6%E5%87%BA%E7%BA%B8%E7%9A%84%E6%89%AB%E7%A0%81%E6%9E%AAAPK%E6%96%87%E6%A1%A3.md)
-
 ### 2.2apk 应用
+
+详细 APK 说明请参考：[自带出纸的扫码枪 APK 文档](https://github.com/troncell/SensingDocs/blob/main/Project%20Docs/%E6%98%93%E5%B8%86%E7%89%B9/%E8%87%AA%E5%B8%A6%E5%87%BA%E7%BA%B8%E7%9A%84%E6%89%AB%E7%A0%81%E6%9E%AAAPK%E6%96%87%E6%A1%A3.md)
 
 | 环境    | 版本号 | 版本发布时间 | 修改内容              | NAS 地址                                                            | 设备       |
 | ------- | ------ | ------------ | --------------------- | ------------------------------------------------------------------- | ---------- |

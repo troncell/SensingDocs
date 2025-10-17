@@ -222,6 +222,10 @@ hub 同步商品：http://ip 地址/api/services/app/SyncFromSensingStore/SyncPr
 
 决裁同步货架：http://ip 地址/sms/v1/job/service/self/info
 
+获取边缘服务器 dau：http://ip 地址/api/services/app/Panshi/GetDeviceDau
+
+更新实时库存：http://ip 地址/api/services/app/Panshi/SyncStock
+
 ![1717745936198](image/Storehub/1717745936198.png)
 
 可以新增/修改同步任务（目前 cron 表达式：00\*\*\*？配置的是整点会进行同步）
