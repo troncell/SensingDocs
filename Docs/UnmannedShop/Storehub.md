@@ -225,6 +225,12 @@ hub 同步商品：http://ip 地址/api/services/app/SyncFromSensingStore/SyncPr
 获取边缘服务器 dau：http://ip 地址/api/services/app/Panshi/GetDeviceDau
 
 更新实时库存：http://ip 地址/api/services/app/Panshi/SyncStock
+更新货道信息（包含货道合并）http://ip 地址/api/services/app/Panshi/SendDevicesToEdge
+更新货道绑定的商品：http://ip 地址/api/services/app/Panshi/SendSkusToEdge
+
+磐石相关接口：
+<img width="911" height="346" alt="image" src="https://github.com/user-attachments/assets/086673cf-3692-4291-a758-b4e5aee26c8d" />
+
 
 ![1717745936198](image/Storehub/1717745936198.png)
 
