@@ -22,5 +22,6 @@
 | ----------------- | ---------------- | ------------ | ----------------- | ------------------------------- |
 | 后台服务          | Windows 远程桌面 | 10.111.32.23 | M5398962\troncell | Bairiyishanjinhuangheruhailiu1# |
 | 数据库 SQL Server | Navicate         | c-wuxvm31    | TrocellSA         | TrocellSA@2025                  |
+| 数据库 SQL Server | Navicate         | c-wuxvm16    | FreonDB           | FreonDB2024                     |
 
 ![1760413555331](image/README/1760413555331.png)

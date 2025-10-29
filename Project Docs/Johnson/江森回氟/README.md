@@ -17,17 +17,17 @@
 | 名称                              | 技术栈/要求                  | 作用                     | 软硬件要求                                                                                                                                                                                    | 江森部署                                                                                 |
 | --------------------------------- | ---------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | 上位机                            | net core9.0<br />Wpf<br />C# | 提供工位的检测界面及功能 | 上位机安装位置提供网线或能被足够强度的无线网络覆盖，固定 IP 地址<br />PLC 设备接入和上位机的同一网络，固定 IP 地址                                                                            |                                                                                          |
-| 数据库                            | SQL                          | 存储检测数据             | 1.SQL Server 2016 及以上<br />2.硬件要求:4 核 CPU，内存 16G 或以上，存储 500G<br />3.江森数据库：c-wuxvm31                                                                                    |                                                                                          |
+| 数据库                            | SQL                          | 存储检测数据             | 1.SQL Server 2016 及以上<br />2.硬件要求:4 核 CPU，内存 16G 或以上，存储 500G<br />3.江森数据库：c-wuxvm16                                                                                    | 数据库是 AEC_FreonDB                                                                     |
 | Web Api 服务<br />Api Web App     | asp.net core 8.0<br />C#     | 提供业务逻辑及数据访问   | 1.Windows server 2016 及以上，IIS 7.0 及以上<br />2.CPU4 核 CPU，内存 16G 或以上，存储 500G<br />3.https tls1.2 及以上 A 端口 ：8081（目前是 http）<br />4.江森服务器部署地址：10.111.32.23   | 访问地址：http://10.111.32.23:8081/swagger/index.html                                    |
 | Web 管理后台<br />Admin Pages App | Vue3.0<br />Vite<br />Html   | 提供管理操作界面         | 1.Windows server2016 及以上，IIS 7.0 及以上<br />2.硬件要求 4 核 CPU，内存 16G 或以上，存储 500G<br />3.https tls1.2 及以上端口 ：8849（目前是 http）<br />4.江森服务器部署地址：10.111.32.23 | 访问地址：http://10.111.32.23:8849<br />用户名：test<br />账号：123456<br />密码：123qwe |
 
 # 2.仓库地址
 
-| 分类         | 仓库地址                                                                                                           |
-| ------------ | ------------------------------------------------------------------------------------------------------------------ |
-| hub 前端仓库 | https://github.com/troncell/sensinghub_front/tree/return-fluoride                                                  |
-| 上位机软件   | https://github.com/troncell/Sensing.Plc.Wpf                                                                        |
-| hub 后端仓库 |                                                                                                                    |
-| 原型图地址   | https://modao.cc/proto/QS7Ew88sh5v0umXtC8dO9/sharing?view_mode=read_only&screen=rbpUf05tFfR3saql2 #加回氟系统-分享 |
+| 分类         | 仓库地址                                                                                                           | 说明      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------ | --------- |
+| hub 前端仓库 | https://github.com/troncell/sensinghub_front/tree/return-fluoride                                                  | vue3+vite |
+| 上位机软件   | https://github.com/troncell/Sensing.Plc.Wpf                                                                        |           |
+| hub 后端仓库 |                                                                                                                    |           |
+| 原型图地址   | https://modao.cc/proto/QS7Ew88sh5v0umXtC8dO9/sharing?view_mode=read_only&screen=rbpUf05tFfR3saql2 #加回氟系统-分享 | 墨刀      |
 
 # 3.使用手册
