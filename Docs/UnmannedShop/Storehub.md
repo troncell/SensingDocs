@@ -8,8 +8,6 @@ StoreHub 前端仓库地址：https://github.com/wulixu/SensingHub
 
 StoreHub 后端仓库地址：https://github.com/troncell/sensinghub_front/tree/storehub
 
-# 3.环境安装
-
 # 4.StoreHub 后台介绍
 
 ## 4.1 登录
@@ -231,8 +229,7 @@ hub 同步商品：http://ip 地址/api/services/app/SyncFromSensingStore/SyncPr
 更新货道绑定的商品：http://ip 地址/api/services/app/Panshi/SendSkusToEdge
 
 磐石相关接口：
-<img width="911" height="346" alt="image" src="https://github.com/user-attachments/assets/086673cf-3692-4291-a758-b4e5aee26c8d" />
-
+`<img width="911" height="346" alt="image" src="https://github.com/user-attachments/assets/086673cf-3692-4291-a758-b4e5aee26c8d" />`
 
 ![1717745936198](image/Storehub/1717745936198.png)
 
