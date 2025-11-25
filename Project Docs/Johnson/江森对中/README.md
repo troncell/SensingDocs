@@ -23,10 +23,7 @@
 
 # 使用手册
 
-1.后台环境部署
-
-说明请参考：[江森后台部署文档](https://github.com/troncell/SensingDocs/blob/main/Docs/Centering/%E6%B1%9F%E6%A3%AE%E5%90%8E%E5%8F%B0%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3.md)
-
-2.对中操作说明
-
-说明请参考：[对中操作文档](https://github.com/troncell/SensingDocs/blob/main/Docs/Centering/%E5%AF%B9%E4%B8%AD%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3.md)
+| 序号 | 文档名称     | 说明                         | 文档地址                                                                                                                                     |
+| ---- | ------------ | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 后台部署文档 | 后台服务部署，包含前端和后端 | https://github.com/troncell/SensingDocs/blob/main/Docs/Centering/%E6%B1%9F%E6%A3%AE%E5%90%8E%E5%8F%B0%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3.md |
+| 2    | 对宋操作文档 | 蓝牙设备操作手册             | https://github.com/troncell/SensingDocs/blob/main/Docs/Centering/%E5%AF%B9%E4%B8%AD%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3.md                   |

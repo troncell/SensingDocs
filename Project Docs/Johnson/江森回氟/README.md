@@ -31,3 +31,8 @@
 | 原型图地址   | https://modao.cc/proto/QS7Ew88sh5v0umXtC8dO9/sharing?view_mode=read_only&screen=rbpUf05tFfR3saql2 #加回氟系统-分享 | 墨刀      |
 
 # 3.使用手册
+
+| 序号 | 文档名称       | 说明                                               | 文档地址                                                                                                                                                                                                                                                                       |
+| ---- | -------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | 后台操作手册   | 后台说明，包含机组和储罐的创建以及加回氟的操作记录 | [SensingDocs/Project Docs/Johnson/江森回氟/后台操作手册.md at main · troncell/SensingDocs](https://github.com/troncell/SensingDocs/blob/main/Project%20Docs/Johnson/%E6%B1%9F%E6%A3%AE%E5%9B%9E%E6%B0%9F/%E5%90%8E%E5%8F%B0%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.md)            |
+| 2    | 上位机操作手册 | 上位机使用文档                                     | [SensingDocs/Project Docs/Johnson/江森回氟/上位机操作手册.md at main · troncell/SensingDocs](https://github.com/troncell/SensingDocs/blob/main/Project%20Docs/Johnson/%E6%B1%9F%E6%A3%AE%E5%9B%9E%E6%B0%9F/%E4%B8%8A%E4%BD%8D%E6%9C%BA%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.md) |
