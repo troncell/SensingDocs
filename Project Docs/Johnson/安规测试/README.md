@@ -1,16 +1,20 @@
-## 1.江森测试小车项目介绍
+## 1.安规测试项目介绍
 
-简介：更智能化的检测手段，自动读取等技术，引入辅助 PDA 设备， 可移动式办公(后续拓展)。兼容多种电气测试仪，检测的过程可记录，可追溯。测试的项目同步于 MES，必要的数据回传到 MES 系统
+简介：为产品检测定制的专用工装，通过万用表接入完成数据采集，检测数据实时存储于本地后台，同时支持核心数据回传 MES 系统，助力生产流程追溯与管控。
 
 ## 2.硬件拓扑图
 
-![1760947705381](image/README/1760947705381.png)
+![1764312701756](image/README/1764312701756.png)
 
 ## 3.网络架构
 
-![1764055320282](image/README/1764055320282.png)
+和测试小车同一个后台
+
+![1764313028641](image/README/1764313028641.png)
 
 ## 4.设备要求
+
+和测试小车同一个后台
 
 | 名称                              | 技术栈/要求                  | 作用                     | 软硬件要求                                                                                                                                                                     | 江森部署                   |
 | --------------------------------- | ---------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
@@ -21,13 +25,11 @@
 
 ## 5.仓库地址
 
-| 分类         | 说明      | 仓库地址                                                                                                          |
-| ------------ | --------- | ----------------------------------------------------------------------------------------------------------------- |
-| hub 前端仓库 | vue3+vite | https://github.com/troncell/sensinghub_front/tree/testCar                                                         |
-| 上位机软件   | WPF       | https://github.com/troncell/Sensing.ElectricalTest/tree/main                                                      |
-| hub 后端仓库 | abp       | https://github.com/wulixu/SensingHub/tree/test-car                                                                |
-| PDA 页面     | vue3+vite | https://github.com/troncell/Projects-2023/tree/main/2023/testTrolley/PDA                                          |
-| 大屏软件     | vue3+vite | https://github.com/troncell/Projects-2023/tree/main/2023/testTrolley/LargeScreen                                  |
-| 原型地址     | 墨刀      | https://modao.cc/proto/1NDHdAgVsx2cwe8cCvlHji/sharing?view_mode=read_only&screen=rbpUv2FEMAQeeuWNI #测试小车-分享 |
+| 分类         | 说明      | 仓库地址                                                                                                            |
+| ------------ | --------- | ------------------------------------------------------------------------------------------------------------------- |
+| hub 前端仓库 | vue3+vite | https://github.com/troncell/sensinghub_front/tree/testCar                                                           |
+| 上位机软件   | WPF       |                                                                                                                     |
+| hub 后端仓库 | abp       | https://github.com/wulixu/SensingHub/tree/test-car                                                                  |
+| 原型地址     | 墨刀      | https://modao.cc/proto/InwmmM0lt5lr8vpYBAXNrI/sharing?view_mode=read_only&screen=rbpV2lrRI6B4STDbl #安规仪测试-分享 |
 
 ## 6.文档手册
