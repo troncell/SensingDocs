@@ -5,8 +5,8 @@
       {
         "title": "派样机",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/sampleLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/sampleGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/sampleLight.png",
           "w": "",
           "h": ""
         },
@@ -60,8 +60,8 @@
       {
         "title": "电子价签",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/elePriceTagLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/elePriceTagGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/elePriceTagLight.png",
           "w": "",
           "h": ""
         },
@@ -90,8 +90,8 @@
       {
         "title": "无人店",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/pickGoLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/pickGoGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/pickGoLight.png",
           "w": "",
           "h": ""
         },
@@ -148,8 +148,8 @@
       {
         "title": "活动",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/activityLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/activityGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/activityLight.png",
           "w": "",
           "h": ""
         },
@@ -185,8 +185,8 @@
       {
         "title": "云货架",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfLight.png",
           "w": "",
           "h": ""
         },
@@ -234,8 +234,8 @@
       {
         "title": "IOT感应互动",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/IOTGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/IOTLight.png",
           "w": "",
           "h": ""
         },
@@ -271,8 +271,8 @@
       {
         "title": "售卖小程序",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/saleMiniProgramLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/saleMiniProgramGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/saleMiniProgramLight.png",
           "w": "",
           "h": ""
         },
@@ -317,8 +317,8 @@
       {
         "title": "自助收银",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/selfServiceLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/selfServiceGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/selfServiceLight.png",
           "w": "",
           "h": ""
         },
@@ -365,8 +365,8 @@
       {
         "title": "信息发布",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/infoLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/infoGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/infoLight.png",
           "w": "",
           "h": ""
         },
@@ -408,8 +408,8 @@
       {
         "title": "播控系统",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/broadcastLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/broadcastGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/broadcastLight.png",
           "w": "",
           "h": ""
         },
@@ -457,8 +457,8 @@
       {
         "title": "客流系统",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/passengerLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/passengerGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/passengerLight.png",
           "w": "",
           "h": ""
         },
@@ -488,8 +488,8 @@
       {
         "title": "互动软件",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/interactionLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/interactionGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/interactionLight.png",
           "w": "",
           "h": ""
         },
@@ -546,8 +546,8 @@
       {
         "title": "云货架",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfLight.png",
           "w": "",
           "h": ""
         },
@@ -595,8 +595,8 @@
       {
         "title": "IOT感应互动",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/IOTLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/IOTGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/IOTLight.png",
           "w": "",
           "h": ""
         },
@@ -632,8 +632,8 @@
       {
         "title": "人脸闸机系统",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/faceGateGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/faceGateLight.png",
           "w": "",
           "h": ""
         },
@@ -672,8 +672,8 @@
       {
         "title": "机器人",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/robotGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/robotLight.png",
           "w": "",
           "h": ""
         },
@@ -706,8 +706,8 @@
       {
         "title": "展示小程序",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/miniProgramLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/miniProgramGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/miniProgramLight.png",
           "w": "",
           "h": ""
         },
@@ -736,8 +736,8 @@
       {
         "title": "雷达",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/robotLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/robotGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/robotLight.png",
           "w": "",
           "h": ""
         },
@@ -760,8 +760,8 @@
       {
         "title": "魔镜",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/faceGateLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/faceGateGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/faceGateLight.png",
           "w": "",
           "h": ""
         },
@@ -802,8 +802,8 @@
       {
         "title": "SAT超声波",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/SATLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/SATGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/SATLight.png",
           "w": "",
           "h": ""
         },
@@ -839,8 +839,8 @@
       {
         "title": "轴对中",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfLight.png",
           "w": "",
           "h": ""
         },
@@ -870,8 +870,8 @@
       {
         "title": "3D绘测",
         "icon": {
-          "greyIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfGrey.png",
-          "lightIcon": "https://raw.githubusercontent.com/crj2580/SensingDocs/main/Retail/images/cloudShelfLight.png",
+          "greyIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfGrey.png",
+          "lightIcon": "https://sensingstore.oss-cn-shanghai.aliyuncs.com/Troncell/Knowledge/Retail/cloudShelfLight.png",
           "w": "",
           "h": ""
         },
