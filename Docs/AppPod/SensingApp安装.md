@@ -1,5 +1,65 @@
 ## 1.Android 版
 
+## 一、功能总览
+
+| 功能         | 业务含义                                                                                                    | 所属模块                | 入口                             |
+| ------------ | ----------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------- |
+| **信息发布** | 数字标牌 / 广告播放系统。设备注册到云平台后，自动下载图片、视频、HTML 等内容到本地并通过 WebView 循环播放。 | `sensing-app-ads`       | `MainActivity` → 选择“信息发布”  |
+| **参数设置** | 各子应用（Ads、Sample、Cashier、Shelf、Gate）的设备注册、云/Hub 地址、功能开关、串口等参数配置页面。        | 各 `sensing-app-*` 模块 | 由各子应用主界面通过密码回调进入 |
+
+---
+
+## 二、信息发布（数字标牌）
+
+### 2.1 核心流程
+
+```
+启动 SplashActivity
+    ↓
+未注册 → RegisterActivity（参数设置/注册页）
+    ↓
+已注册 → WebActivity（内容播放页）
+    ↓
+MQTT / WebDataSyncWorker / FileDownloadWorker 实时/定时同步云端素材
+    ↓
+AgentWeb 加载本地/远程 H5 页面并播放
+```
+
+### 2.3 注册页功能项
+
+注册页同时承担“参数设置”职责，可配置以下参数：
+
+| 配置项          | 字段/State           | 说明                                                                  |
+| --------------- | -------------------- | --------------------------------------------------------------------- |
+| 云平台地址      | `host`               | 默认 `https://d-gw.api.troncell.com`，用于调用设备注册/信息接口       |
+| SensingHub 地址 | `hubhost`            | 本地或远程 Hub 服务地址，建立长连接                                   |
+| 设备秘钥        | `subKey`             | 设备在云平台的唯一标识，扫码或手动输入                                |
+| 检查设备秘钥    | `onRegisterClick()`  | 校验 subKey，拉取设备信息并注册到云平台                               |
+| 强制注册        | `_isForceRegister`   | 当本机 MAC 与已注册 MAC 不一致时，可点击错误文案强制使用本机 MAC 注册 |
+| 版本信息        | `deviceInfo.version` | 显示当前 APK 版本号                                                   |
+| 进入播放页      | `settingAction`      | 注册成功后跳转到 `WebActivity` 开始播放                               |
+
+### 2.4 内容播放页功能
+
+`WebActivity` 是信息发布的主运行界面：
+
+| 功能           | 说明                                                                               |
+| -------------- | ---------------------------------------------------------------------------------- |
+| WebView 播放   | 使用 AgentWeb 加载 `file:///android_asset/web/dev.html` 或云端下发的 H5 地址       |
+| JS 桥接        | H5 通过 `android` 对象调用原生能力；原生通过 `jsAccessEntrace.quickCallJs` 回调 H5 |
+| 文件下载回调   | 收到 `StartDownloadFileActionFinish` 广播后，调用 H5 `FileDownloaded` 事件         |
+| Hub 消息推送   | 通过 EventBus 接收 `SensingDeviceDataChangedInput`，调用 H5 `HubMessage` 事件      |
+| 下拉刷新       | Compose 下拉刷新组件触发 WebView `reload()`                                        |
+| 调试模式       | 开关 `debugMode`，控制日志与开发菜单                                               |
+| 广告提示       | 开关 `isShowAdsHint`                                                               |
+| 服务器 IP 保存 | 可临时修改并检测服务器地址可用性                                                   |
+| 切换 X5 内核   | 可跳转 `X5WebActivity` 使用腾讯 TBS 浏览器内核                                     |
+| 日志上传       | 主动调用 `TLogService.positiveUploadTlog` 上报日志                                 |
+
+![1782974000791](image/SensingApp安装/1782974000791.png)
+
+## 三、APK安装
+
 ### 1.1 APK 安装
 
 方案一：adb 命令安装
